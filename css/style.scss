@@ -23,6 +23,7 @@ $text-medium-color: {{ site.data.settings.color_settings.text_medium_color }};
 $text-light-color: {{ site.data.settings.color_settings.text_light_color }};
 
 $accent-color: {{ site.data.settings.color_settings.accent_color }};
+$accent-light: {{ site.data.settings.color_settings.accent_light }};
 
 $error-color: {{ site.data.settings.color_settings.error_color }};
 
@@ -30,6 +31,7 @@ $error-color: {{ site.data.settings.color_settings.error_color }};
 // Fonts
 
 $body-font: {{ site.data.settings.font_settings.body_font }};
+$quote-font: {{ site.data.settings.font_settings.quote_font }};
 $title-font: {{ site.data.settings.font_settings.title_font }};
 
 $regular-weight: {{ site.data.settings.font_settings.regular_weight }};
@@ -151,6 +153,27 @@ $grid-spacing: {{ site.data.settings.post_settings.grid_spacing }}px;
 // Base URL
 $baseurl: '{{ site.baseurl }}';
 
+:root {
+    --focus-ring-color: {{ site.data.settings.color_settings.focus_color }};
+    --background-color: #fff;
+    --skipToButtonBackgroundColor: #ddd;
+    --skipToMenuTextColor: #000;
+    --skipToFocusBorderColor: #000;
+    --skipToMenuBackgroundColor: #f6f6f6;
+    --skipToMenuitemFocusBackgroundColor: #00f;
+    --skipToMenuitemFocusTextColor: #fff;
+  }
+  
+  /* Set global focus styles */
+  :focus {
+    outline-color: transparent; /* Change outline color to transparent so it's invisible but still appears in Windows High Contrast Mode */
+    outline-style: solid; /* Necessary to hide the default outline style in Edge since it has 2 tones. */
+    box-shadow: 0 0 0 2px var(--background-color),
+      0 0 0 6px var(--focus-ring-color);
+    z-index: 2000;
+  }
+
+
 
 
 // - - - - - - - - - - Global styles
@@ -174,6 +197,7 @@ $baseurl: '{{ site.baseurl }}';
 @import "_includes/_component__contact-form";
 @import "_includes/_component__post-card";
 @import "_includes/_section__about";
+@import "_includes/_section__testimonials";
 @import "_includes/_section__recent-posts";
 
 

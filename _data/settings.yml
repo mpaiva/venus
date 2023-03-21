@@ -1,78 +1,150 @@
 basic_settings:
-  site_title: Made
+  site_title: paiva
   favicon_image: /images/favicon.png
 
 header_settings:
-  logo_image: 
+  logo_image:
   logo_width: 100
 
 menu_settings:
   menu_items:
-    - title: 'Projects'
-      url: '/'
-    - title: 'Blog'
-      url: '/blog/'
+    - title: "Projects"
+      url: "/"
+    - title: "Blog"
+      url: "/blog/"
 
 footer_settings:
-  logo_image: 
+  logo_image:
   logo_width: 100
-  tagline: A beautiful, minimal portfolio Jekyll theme
+  tagline: UX + Accessibility
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
+
+projects_settings:
+  projects_title: Projects
+  projects_description: "The following are some of my latest work available to be displayed publicly. Confidential material available to be glanced upon request."
 
 post_settings:
   grid_spacing: 10
 
 contact_settings:
-  email_address: ''
-  form_action: 'https://formspree.io/hello@jekyllthemes.io'
-  confirmation_url: '/thanks'
-  email_subject: 'Contact form submission'
-  send_button_text: 'Get in Touch'
+  email_address: ""
+  form_action: "https://formspree.io/f/mayzdeyk"
+  confirmation_url: "/thanks"
+  email_subject: "Contact form submission"
+  send_button_text: "Get in Touch"
+
+#-------------------------------
+# Testimonials Section
+testimonials:
+  enable: true
+
+testimonial__title: Testimonials
+testimonial__description: Leadership changes frequently, but team members are forever and genuine.
+
+testimonial__items:
+  - name: "Colleen Stafford"
+    company: "UKG"
+    image: "https://media.licdn.com/dms/image/C5603AQFKUdFamEsdyQ/profile-displayphoto-shrink_800_800/0/1516993747281?e=1684972800&v=beta&t=-7PjiCaDvTYmc9AevyvzbMqnzazPxg2WfqVRSG7xZaE"
+    role: "Lead Designer"
+    link: "https://www.linkedin.com/in/colleenstafford/"
+    content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
+
+  - name: "Lorem Mack"
+    company: "UKG"
+    image: "https://media.licdn.com/dms/image/C4E03AQGC3ejAC01z0A/profile-displayphoto-shrink_800_800/0/1516228479606?e=1684972800&v=beta&t=9Wc5paPu7vOmaeZClOWWhHl_1S-WIpEd89LHSJgEf2c"
+    role: "Principal Designer"
+    link: "https://www.linkedin.com/in/lorenmack/"
+    content: "Marcelo is by an order of magnitude one of the best managers that's ever worked for me.  Yes, you read that right - he works *for* his direct reports. He embodies all of the best traits in a 'servant leader'."
+
+  - name: "Shaun Pansolli"
+    company: "UKG"
+    image: "https://media.licdn.com/dms/image/C4E03AQErXmE5W9p-ig/profile-displayphoto-shrink_800_800/0/1556134632878?e=1684972800&v=beta&t=206iAK64LE3XoarR1yuJH9xjuWW65aVrHTrNPD9taxE"
+    role: "Lead Designer"
+    link: "https://www.linkedin.com/in/shaun-pansolli-20039626/"
+    content: "Marcelo is an outstanding UX leader, teacher and one of the most genuine people I have worked with. He is an advocate and leader for accessibility and inclusiveness in UX and Design thinking methodologies."
+
+  - name: "Lauren Schaefer"
+    company: "South Florida UX"
+    image: "https://media.licdn.com/dms/image/C4E03AQFmQV4oxdrC5w/profile-displayphoto-shrink_800_800/0/1651032174930?e=1684972800&v=beta&t=p9g6YXhr2kF8D-e-lSDB4x6GV4StbyAF3Zcw9R4ss1Q"
+    role: "UX Community Leader"
+    link: "https://www.linkedin.com/in/laurenemartin/"
+    content: "An invaluable partner to me in running the South Florida UX community networking and partnerships events. A brilliant contributor who is invested in the community, helping others, and creating products that lift people up through thoughtful and universal design."
+
+  - name: "Marta Guerra"
+    company: "Amazon"
+    image: "https://media.licdn.com/dms/image/C4E03AQGGXI60vo7nIQ/profile-displayphoto-shrink_800_800/0/1663984751988?e=1684972800&v=beta&t=ktIyRFha-8SWZP7tNiDYS3VAIN1SDWxpElMNAurcPk4"
+    role: "Sr. UX Designer, Author"
+    link: "https://www.linkedin.com/in/guerramarta/"
+    content: "Marcelo is brilliant UX Designer and educator that I had the opportunity to work at UKG. A visionary, expert in Design Systems, and accessibility guru."
+
+  - name: "Richard Novoa"
+    company: "NFI"
+    image: "https://media.licdn.com/dms/image/C4E03AQH2HQ2Lm1V0WQ/profile-displayphoto-shrink_800_800/0/1571172937702?e=1684972800&v=beta&t=bZTK3mcrwpWyvap5B0s4I3oBMWl8SOuSiMNqjy2hQyM"
+    role: "UX Designer"
+    link: "https://www.linkedin.com/in/novoadesign/"
+    content: "Leader, mentor and educator, I have had the honor of being guided by one of the best. His attention to detail and his leadership style inspires you to craft products users will love, by intent and not by luck. Marcelo genuinely takes interest in the betterment of others, the creation of communities and the inclusivity of all users."
+
+  - name: "Joel Mena"
+    company: "CryptoLeague"
+    image: "https://media.licdn.com/dms/image/C4E03AQHkRBrGp4Ag8Q/profile-displayphoto-shrink_800_800/0/1517744301919?e=1684972800&v=beta&t=LR5DBKncTnCIcre7pX8jh5woBfBJlsOS9Gp_s_117q0"
+    role: "UX Evangelist, Coach and Speaker"
+    link: "https://www.linkedin.com/in/joelmena/"
+    content: "Marcelo is that rare breed of creative and technical mind. His ability to quickly grasp complex ideas and synthesize them into executable plans is second to none. Marcelo is a natural leader capable of successfully building technical teams and bringing people together around a common goal."
+
+  - name: "Bianka McGovern"
+    company: "Amazon"
+    image: "https://media.licdn.com/dms/image/C5603AQGSogIbljgmgw/profile-displayphoto-shrink_800_800/0/1640983012038?e=1684972800&v=beta&t=OMNZaHr1rP3oH6ZvuePMA4ymLdAJW4WETJFz168hf8g"
+    role: "Product Design Leader"
+    link: "https://www.linkedin.com/in/bianka-mcgovern-2027293/"
+    content: "Marcelo comes with an impressive skillset. He does user experience design, visual design and front-end coding. His designs are innovative yet down to earth and realistic from a development standpoint. "
 
 social_settings:
-  facebook_url: ''
-  twitter_url: ''
-  instagram_url: ''
-  snapchat_url: ''
-  youtube_url: ''
-  google-plus_url: ''
-  vimeo_url: ''
-  pinterest_url: ''
-  medium_url: ''
-  quora_url: ''
-  amazon_url: ''
-  apple_url: ''
-  android_url: ''
-  tumblr_url: ''
-  dribbble_url: ''
-  behance_url: ''
-  deviantart_url: ''
-  github_url: ''
-  reddit_url: ''
-  flickr_url: ''
-  etsy_url: ''
-  kickstarter_url: ''
-  soundcloud_url: ''
-  spotify_url: ''
-  bandcamp_url: ''
-  linkedin_url: ''
+  facebook_url: ""
+  twitter_url: ""
+  instagram_url: ""
+  snapchat_url: ""
+  youtube_url: ""
+  google-plus_url: ""
+  vimeo_url: ""
+  pinterest_url: ""
+  medium_url: ""
+  quora_url: ""
+  amazon_url: ""
+  apple_url: ""
+  android_url: ""
+  tumblr_url: ""
+  dribbble_url: ""
+  behance_url: ""
+  deviantart_url: ""
+  github_url: ""
+  reddit_url: ""
+  flickr_url: ""
+  etsy_url: ""
+  kickstarter_url: ""
+  soundcloud_url: ""
+  spotify_url: ""
+  bandcamp_url: ""
+  linkedin_url: ""
 
 color_settings:
-  background_color: '#ffffff'
-  background_alt_color: '#f4f5f6'
-  text_dark_color: '#202224'
-  text_medium_color: '#6C7A89'
-  text_light_color: '#AEB3BB'
-  accent_color: '#4C60E6'
-  border_color: '#ECEDEF'
-  error_color: '#D64541'
+  background_color: "#ffffff"
+  background_alt_color: "#f4f5f6"
+  text_dark_color: "#202224"
+  text_medium_color: "#6C7A89"
+  text_light_color: "#AEB3BB"
+  accent_color: "#4C60E6"
+  accent_light: "#d1d6fa"
+  border_color: "#ECEDEF"
+  error_color: "#D64541"
+  focus_color: "#0000ff"
 
 font_settings:
-  font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700" rel="stylesheet">'
-  title_font: 'Rubik, sans-serif'
+  font_embed: '<link href="https://fonts.googleapis.com/css?family=Rubik:400,500,700|Ubuntu+Mono:400,700|Comic+Neue:300,400" rel="stylesheet">'
+  title_font: "Rubik, sans-serif"
   body_font: '"Ubuntu Mono", sans-serif'
+  quote_font: '"Comic Neue", sans-serif'
   regular_weight: 400
   bold_weight: 700
   site_title:

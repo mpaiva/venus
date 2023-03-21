@@ -197,7 +197,6 @@ a {
   line-height: $label-lineheight;
   letter-spacing: $label-spacing;
   color: $text-light-color;
-  text-transform: uppercase;
 
   &--small {
     @extend .label;

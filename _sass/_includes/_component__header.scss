@@ -197,7 +197,7 @@
 
     .menu__list__item {
       margin-bottom: 0px;
-      
+
       &:not(:first-child) {
         margin-left: 50px;
       }
@@ -210,7 +210,6 @@
       color: $text-dark-color;
       font-weight: $button-weight;
       letter-spacing: $button-spacing;
-      text-transform: uppercase;
     }
 
     .menu__cta__link {

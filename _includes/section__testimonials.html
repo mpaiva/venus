@@ -1,0 +1,40 @@
+{% if site.data.settings.testimonials.enable == true %}
+<!-- begin testimonials -->
+
+<div class="wrap grid">
+  <h2>{{ site.data.settings.testimonial__title }}</h2>
+
+  {% if site.data.settings.testimonial__description %}
+  <p class="section__description">
+    {{ site.data.settings.testimonial__description }}
+  </p>
+  {% endif %}
+
+  <div class="testimonial-group">
+    {% for testimonial__item in site.data.settings.testimonial__items %}
+    <a href="{{testimonial__item.link}}" target="_blank" rel="noopener">
+      <article class="testimonial">
+        {% if testimonial__item.content %}
+        <blockquote>
+          {{ testimonial__item.content }}
+          <div class="arrow" />
+        </blockquote>
+        {% endif %} {% if testimonial__item.image %}
+        <img
+          src="{{ testimonial__item.image }}"
+          alt="{{ testimonial__item.name }}"
+          loading="lazy"
+        />
+        {% endif %} {% if testimonial__item.name %}
+        <div class="author">
+          <p>{{ testimonial__item.name }}</p>
+          <p>{{ testimonial__item.role }} - {{ testimonial__item.company }}</p>
+        </div>
+        {% endif %}
+      </article>
+    </a>
+    {% endfor %}
+  </div>
+</div>
+
+{% endif %}
