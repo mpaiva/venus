@@ -1,7 +1,9 @@
 <section class="listing">
   <div class="wrap">
     <h2>{{ site.data.settings.projects_settings.projects_title }}</h2>
-    <p>{{ site.data.settings.projects_settings.projects_description }}</p>
+    <p class="project__brief">
+      {{ site.data.settings.projects_settings.projects_description }}
+    </p>
 
     {% for project in site.projects reversed %} {% if project.accent_color %}{%
     capture accent_color %}{{ project.accent_color }}{% endcapture %}{% endif %}
