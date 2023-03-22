@@ -2,7 +2,7 @@
 
 .testimonial-group {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   grid-gap: 1rem;
   align-items: flex-start;
 }
@@ -15,6 +15,7 @@ article.testimonial {
   text-align: left;
   box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
   border-radius: 8px;
+  // margin-bottom: 80px;
 }
 article.testimonial * {
   -webkit-box-sizing: border-box;
@@ -26,17 +27,18 @@ article.testimonial img {
   width: 100%;
   max-width: 100%;
   vertical-align: middle;
+  filter: grayscale(100%);
 }
 article.testimonial blockquote {
   position: relative;
   font-family: $quote-font;
-  background-color: #ffffff;
-  padding: 25px 50px 50px 50px;
-  font-size: 1rem;
+  background-color: #f7f7f7;
+  padding: 24px;
+  font-size: 0.85rem;
   font-weight: 400;
   text-align: left;
   margin: 0;
-  line-height: 1.6em;
+  line-height: 1rem;
   color: #000;
 }
 article.testimonial blockquote:before,
@@ -50,13 +52,13 @@ article.testimonial blockquote:after {
   color: #4c60e6;
 }
 article.testimonial blockquote:before {
-  top: 25px;
-  left: 20px;
+  top: 20px;
+  left: 8px;
 }
 article.testimonial blockquote:after {
   content: "\201D";
-  right: 20px;
-  bottom: 32px;
+  right: 8px;
+  bottom: 0px;
 }
 article.testimonial .arrow {
   top: 100%;
@@ -64,7 +66,7 @@ article.testimonial .arrow {
   height: 0;
   border-left: 0 solid transparent;
   border-right: 25px solid transparent;
-  border-top: 25px solid #ffffff;
+  border-top: 25px solid #f7f7f7;
   margin: 0;
   position: absolute;
 }
@@ -80,9 +82,9 @@ article.testimonial .author {
 
 article.testimonial .author p {
   font-family: $body-font;
-  font-size: 1rem;
+  font-size: 0.8rem;
   margin: 0;
   color: #fff;
-  line-height: 1.25rem;
+  line-height: 1rem;
   font-weight: 600;
 }
