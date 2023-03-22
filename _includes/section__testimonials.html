@@ -21,9 +21,9 @@
         </blockquote>
         {% endif %} {% if testimonial__item.image %}
         <img
-          src="{{ testimonial__item.image }}"
-          alt="{{ testimonial__item.name }}"
-          loading="lazy"
+          src="{{ '/images/testimonials/' | relative_url}}{{ testimonial__item.image }}"
+          alt="photo of {{ testimonial__item.name }}"
+          class="testimonial__img"
         />
         {% endif %} {% if testimonial__item.name %}
         <div class="author">

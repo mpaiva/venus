@@ -16,7 +16,7 @@ menu_settings:
 footer_settings:
   logo_image:
   logo_width: 100
-  tagline: UX + Accessibility
+  tagline: Marcelo Paiva = UX + DEV + Accessibility
 
 hero_settings:
   background_image: /images/backgrounds/background-hero.svg
@@ -36,6 +36,34 @@ contact_settings:
   send_button_text: "Get in Touch"
 
 #-------------------------------
+
+# About Random Images
+about_settings:
+  - image: /images/about/diversity_picasso.png
+    alt: "A generative art created using MidJourney, where it illustrates a diverse group of people using Pablo Picasso's painting style."
+    caption: "I pledge to design for All users, regardless of race, ethnicity, age, gender, religion, sexual orientation, gender identity, gender expression, disability, economic status and other diverse backgrounds."
+    prompt: "a group of people from different race, ethnicity, age, gender, religion, disability, economic status and other diverse backgrounds, on a white background, Pablo Picasso style. --v 5 --s 250"
+
+  - image: /images/about/diversity_rockwell.png
+    alt: "A generative art created using MidJourney, where it illustrates a diverse group of people using Norman Rockwell's painting style."
+    caption: "I pledge to design for All users, regardless of race, ethnicity, age, gender, religion, sexual orientation, gender identity, gender expression, disability, economic status and other diverse backgrounds."
+    prompt: "a group of people from different race, ethnicity, age, gender, religion, disability, economic status and other diverse backgrounds, on a white background, Norman Rockwell style. --v 5 --s 250"
+
+  - image: /images/about/diversity_whitmore.png
+    alt: "A generative art created using MidJourney, where it illustrates a diverse group of people using Coby Whitmore's painting style."
+    caption: "I pledge to design for All users, regardless of race, ethnicity, age, gender, religion, sexual orientation, gender identity, gender expression, disability, economic status and other diverse backgrounds."
+    prompt: "a group of people from different race, ethnicity, age, gender, religion, disability, economic status and other diverse backgrounds, on a white background, Coby Whitmore style. --v 5 --s 250"
+
+  - image: /images/about/diversity_yoshitaka_amano.png
+    alt: "A generative art created using MidJourney, where it illustrates a diverse group of people using Yoshitaka Amano's painting style."
+    caption: "I pledge to design for All users, regardless of race, ethnicity, age, gender, religion, sexual orientation, gender identity, gender expression, disability, economic status and other diverse backgrounds."
+    prompt: "a group of people from different race, ethnicity, age, gender, religion, disability, economic status and other diverse backgrounds, on a white background, Yoshitaka Amano style. --v 5 --s 250"
+
+  - image: /images/about/diversity_neal_adams.png
+    alt: "A generative art created using MidJourney, where it illustrates a diverse group of people using Neal Adams's painting style."
+    caption: "I pledge to design for All users, regardless of race, ethnicity, age, gender, religion, sexual orientation, gender identity, gender expression, disability, economic status and other diverse backgrounds."
+    prompt: "a group of people from different race, ethnicity, age, gender, religion, disability, economic status and other diverse backgrounds, on a white background, Neal Adams style. --v 5 --s 250"
+
 # Testimonials Section
 testimonials:
   enable: true
@@ -46,56 +74,56 @@ testimonial__description: Leadership changes frequently, but team members are fo
 testimonial__items:
   - name: "Colleen Stafford"
     company: "UKG"
-    image: "https://media.licdn.com/dms/image/C5603AQFKUdFamEsdyQ/profile-displayphoto-shrink_800_800/0/1516993747281?e=1684972800&v=beta&t=-7PjiCaDvTYmc9AevyvzbMqnzazPxg2WfqVRSG7xZaE"
+    image: "cstafford.jpeg"
     role: "Lead Designer"
     link: "https://www.linkedin.com/in/colleenstafford/"
     content: "Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration"
 
   - name: "Lorem Mack"
     company: "UKG"
-    image: "https://media.licdn.com/dms/image/C4E03AQGC3ejAC01z0A/profile-displayphoto-shrink_800_800/0/1516228479606?e=1684972800&v=beta&t=9Wc5paPu7vOmaeZClOWWhHl_1S-WIpEd89LHSJgEf2c"
+    image: "lmack.jpeg"
     role: "Principal Designer"
     link: "https://www.linkedin.com/in/lorenmack/"
     content: "Marcelo is by an order of magnitude one of the best managers that's ever worked for me.  Yes, you read that right - he works *for* his direct reports. He embodies all of the best traits in a 'servant leader'."
 
   - name: "Shaun Pansolli"
     company: "UKG"
-    image: "https://media.licdn.com/dms/image/C4E03AQErXmE5W9p-ig/profile-displayphoto-shrink_800_800/0/1556134632878?e=1684972800&v=beta&t=206iAK64LE3XoarR1yuJH9xjuWW65aVrHTrNPD9taxE"
+    image: "spansolli.jpeg"
     role: "Lead Designer"
     link: "https://www.linkedin.com/in/shaun-pansolli-20039626/"
     content: "Marcelo is an outstanding UX leader, teacher and one of the most genuine people I have worked with. He is an advocate and leader for accessibility and inclusiveness in UX and Design thinking methodologies."
 
   - name: "Lauren Schaefer"
     company: "South Florida UX"
-    image: "https://media.licdn.com/dms/image/C4E03AQFmQV4oxdrC5w/profile-displayphoto-shrink_800_800/0/1651032174930?e=1684972800&v=beta&t=p9g6YXhr2kF8D-e-lSDB4x6GV4StbyAF3Zcw9R4ss1Q"
+    image: "lschaefer.jpeg"
     role: "UX Community Leader"
     link: "https://www.linkedin.com/in/laurenemartin/"
     content: "An invaluable partner to me in running the South Florida UX community networking and partnerships events. A brilliant contributor who is invested in the community, helping others, and creating products that lift people up through thoughtful and universal design."
 
   - name: "Marta Guerra"
     company: "Amazon"
-    image: "https://media.licdn.com/dms/image/C4E03AQGGXI60vo7nIQ/profile-displayphoto-shrink_800_800/0/1663984751988?e=1684972800&v=beta&t=ktIyRFha-8SWZP7tNiDYS3VAIN1SDWxpElMNAurcPk4"
+    image: "mguerra.jpeg"
     role: "Sr. UX Designer, Author"
     link: "https://www.linkedin.com/in/guerramarta/"
     content: "Marcelo is brilliant UX Designer and educator that I had the opportunity to work at UKG. A visionary, expert in Design Systems, and accessibility guru."
 
   - name: "Richard Novoa"
     company: "NFI"
-    image: "https://media.licdn.com/dms/image/C4E03AQH2HQ2Lm1V0WQ/profile-displayphoto-shrink_800_800/0/1571172937702?e=1684972800&v=beta&t=bZTK3mcrwpWyvap5B0s4I3oBMWl8SOuSiMNqjy2hQyM"
+    image: "rnovoa.jpeg"
     role: "UX Designer"
     link: "https://www.linkedin.com/in/novoadesign/"
     content: "Leader, mentor and educator, I have had the honor of being guided by one of the best. His attention to detail and his leadership style inspires you to craft products users will love, by intent and not by luck. Marcelo genuinely takes interest in the betterment of others, the creation of communities and the inclusivity of all users."
 
   - name: "Joel Mena"
     company: "CryptoLeague"
-    image: "https://media.licdn.com/dms/image/C4E03AQHkRBrGp4Ag8Q/profile-displayphoto-shrink_800_800/0/1517744301919?e=1684972800&v=beta&t=LR5DBKncTnCIcre7pX8jh5woBfBJlsOS9Gp_s_117q0"
+    image: "jmena.jpeg"
     role: "UX Evangelist, Coach and Speaker"
     link: "https://www.linkedin.com/in/joelmena/"
     content: "Marcelo is that rare breed of creative and technical mind. His ability to quickly grasp complex ideas and synthesize them into executable plans is second to none. Marcelo is a natural leader capable of successfully building technical teams and bringing people together around a common goal."
 
   - name: "Bianka McGovern"
     company: "Amazon"
-    image: "https://media.licdn.com/dms/image/C5603AQGSogIbljgmgw/profile-displayphoto-shrink_800_800/0/1640983012038?e=1684972800&v=beta&t=OMNZaHr1rP3oH6ZvuePMA4ymLdAJW4WETJFz168hf8g"
+    image: "bmcgovern.jpeg"
     role: "Product Design Leader"
     link: "https://www.linkedin.com/in/bianka-mcgovern-2027293/"
     content: "Marcelo comes with an impressive skillset. He does user experience design, visual design and front-end coding. His designs are innovative yet down to earth and realistic from a development standpoint. "

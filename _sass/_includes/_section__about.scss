@@ -19,6 +19,16 @@
     flex-direction: column;
     align-items: center;
 
+    .about__caption {
+      font-family: $body-font;
+      color: $text-dark-color;
+      background-color: $background-alt-color;
+      letter-spacing: normal;
+      font-size: small;
+      line-height: 150%;
+      padding: 8px 16px;
+    }
+
     img {
       margin-bottom: 24px;
     }
@@ -29,7 +39,7 @@
   }
 
   .about__content {
-    max-width: 456px;
+    // max-width: 456px;
 
     .title {
       margin-bottom: 16px;
@@ -46,32 +56,31 @@
     .cta {
       margin: 8px 0 0 -4px;
     }
-	}
-	
+  }
 
   @include mq(tabletp) {
     margin-bottom: 160px;
-    
+
     hr {
       margin-bottom: 120px;
     }
-		
+
     .wrap {
       grid-template-columns: 1fr 1fr;
     }
 
     .about__image {
       width: 100%;
-      margin-left: 0;
-		}
-		
-		.about__content {
-			margin-top: 64px;
+      margin: auto 0;
+    }
 
-			.subtitle {
-				margin-bottom: 24px;
-			}
-		}
+    .about__content {
+      margin-top: 64px;
+
+      .subtitle {
+        margin-bottom: 24px;
+      }
+    }
   }
 }
 
