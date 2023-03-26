@@ -1,13 +1,14 @@
 <!-- Random ID generation -->
 {% assign min = 0 %} {% assign max = 5 %} {% assign diff = max | minus: min %}
 {% assign random = "now" | date: "%s" | modulo: diff | plus: min %}
-<!-- /Random ID generation -->
+
 <img
   src="{{ site.data.settings.about_settings[random].image | relative_url }}"
   alt="{{ site.data.settings.about_settings[random].alt }}"
 />
 <figcaption class="about__caption">
-  <strong>Mid Journey Prompt:</strong> ({{random}} of {{
+  <strong>AI-generated art prompt:</strong> ({{random}} of {{
   site.data.settings.about_settings.size }})<br />
   {{ site.data.settings.about_settings[random].prompt }}
 </figcaption>
+<!-- /Random ID generation -->

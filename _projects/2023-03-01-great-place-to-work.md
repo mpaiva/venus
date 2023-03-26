@@ -1,9 +1,9 @@
 ---
 title: Great Place To Work Hub
-subtitle: High-fidelity mobile app designs for a super awesome social media company.
+subtitle: Product strategy on the Great Place to Work Hub, an interactive way to complement HCM data demographics with how employees feel about their workplace.
 date: 2019-07-24 00:00:00
-brief: Brief description
-description: This is a demo post that shows what you can do inside portfolio and blog posts. We’ve included everything you need to create engaging posts and case studies to show off your work in a beautiful way.
+brief: It All Comes Down To Trust
+description: Trust is the main ingredient in building a great workplace for all. Establishing a foundation of trust in the workplace culture is the smartest investment you can make for your organization.
 featured_image: demo.jpg
 accent_color: "red"
 bg_color: "hsla(1, 100%, 50%, 0.1)"

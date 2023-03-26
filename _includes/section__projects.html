@@ -16,7 +16,7 @@
           >{{ project.title }}</a
         >
       </h3>
-      <p class="project__brief">{{ project.brief }}</p>
+      <p class="project__brief">{{ project.brief | safeHTML }}</p>
 
       <div
         class="project__images owl-carousel"

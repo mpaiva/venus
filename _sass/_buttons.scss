@@ -4,7 +4,6 @@
 
 // - - - - - - - - - - - - - - - - - -
 
-
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Basics
 
 .button {
@@ -27,8 +26,10 @@
         display: inline-block;
         width: 20px;
         height: 10px;
-        mask: url($baseurl + "/images/icons/arrow-right-accent.svg") right center no-repeat;
-        -webkit-mask: url($baseurl + "/images/icons/arrow-right-accent.svg") right center no-repeat;
+        mask: url($baseurl + "/images/icons/arrow-right-accent.svg") right
+          center no-repeat;
+        -webkit-mask: url($baseurl + "/images/icons/arrow-right-accent.svg")
+          right center no-repeat;
         margin-left: 4px;
         background-color: var(--color-var);
       }
@@ -47,8 +48,10 @@
         display: inline-block;
         width: 20px;
         height: 10px;
-        mask: url($baseurl + "/images/icons/arrow-right-accent.svg") right center no-repeat;
-        -webkit-mask: url($baseurl + "/images/icons/arrow-right-accent.svg") right center no-repeat;
+        mask: url($baseurl + "/images/icons/arrow-right-accent.svg") right
+          center no-repeat;
+        -webkit-mask: url($baseurl + "/images/icons/arrow-right-accent.svg")
+          right center no-repeat;
         margin-right: 4px;
         background-color: var(--color-var);
         transform: rotate(180deg);
@@ -63,6 +66,12 @@
     &--accent {
       @extend .button--text;
       color: $accent-color;
+      margin-top: 2rem;
+      padding: 1rem 0;
+      font-family: $body-font;
+      font-weight: 600;
+      text-transform: capitalize;
+      font-size: 1.25rem;
 
       &.--right::after,
       &.--left::before {
@@ -93,7 +102,8 @@
   }
 
   &--close-modal {
-    background: url($baseurl + "/images/icons/arrow-cross-accent.svg") transparentize($accent-color, 0.92) center center no-repeat;
+    background: url($baseurl + "/images/icons/arrow-cross-accent.svg")
+      transparentize($accent-color, 0.92) center center no-repeat;
     width: 40px;
     height: 40px;
     border-radius: 8px;
@@ -107,9 +117,9 @@
     }
   }
 
-  @include mq(tabletp) {
-    &--text {
-      font-size: 14px;
-    }
-  }
+  // @include mq(tabletp) {
+  //   &--text {
+  //     font-size: 1rem;
+  //   }
+  // }
 }
