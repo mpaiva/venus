@@ -1,0 +1,52 @@
+Marcelo Paiva
+User Experience with Accessibility in mind
+Mobile: 617-480-2837 | Email: mpaiva@gmail.com
+
+Objective:
+To leverage my 12+ years of experience in creating accessible and inclusive experiences for diverse user groups and provide thought leadership to UX design teams on Design Systems and Accessibility.
+
+Summary:
+As a passionate designer, I specialize in creating accessible products for large-scale software development organizations. Proficient in W3C guidelines like WCAG and ARIA, I lead teams to promote accessibility in design initiatives. I'm committed to mentoring the UX community in inclusive design and accessibility best practices.
+
+Key Skills:
+* Expertise in designing accessible products and services for diverse user groups.
+* Ability to collaborate with cross-functional teams and drive accessibility-forward product and service design initiatives.
+* Deep understanding and practical application of WCAG and ARIA guidelines and recommendations.
+* Familiarity with standard assistive technologies and how users with disabilities navigate software and products.
+* Proficiency in front-end technologies, such as HTML, CSS, JavaScript (ES6, React, Angular, Vue, Svelte), iOS, and Android.
+* Expert in architecting large-scale Design Systems with Accessibility in mind.
+* Proficient in Design Thinking methodologies in agile environments.
+
+Links
+Portfolio: https://mpaiva.github.io/venus  
+LinkedIn: http://linkedin.com/in/mtpaiva
+Twitter: https://twitter.com/muqueca
+
+
+Noteworthy projects:
+No Latin - (https://nolatin.com) - Accessible Prototyping for UX professionals 
+WTFoc.us - (https://wtfoc.us) - Understanding WCAG 2.4.11 Focus Appearance
+
+Professional Highlights:
+
+Senior UX Manager, UKG (Ultimate Kronos Group) - Florida (April 2018 – March 2023)
+* Responsible for the entire HCM product offering, overseeing the experience design efforts for HR, Payroll, Talent Acquisition, Talent Management, and Great Places to Work.
+* Mentoring over 50 product designers and researchers in adopting inclusive design practices with Accessibility in mind.
+* Providing thought-leadership to team members and close collaboration with strategic business partners through Design Thinking facilitation.
+
+Design Community Leader, Educator, Speaker
+* Training and building cross-functional teams for start-ups on Accessibility, Design Thinking, front-end development, and UX design tools.
+* Authoring a 10-week UX curriculum for a design Bootcamp that trains entry-level designers in design thinking methodologies, user research, interaction design, accessibility, rapid prototyping, visual design, and front-end web development.
+* Speaking at UX and Accessibility conferences worldwide on Inclusive and Accessible Design.
+
+Creative Director, ProcessMAP, Corp. - Florida (2015 - 2016)
+* Built a world-class cross-functional team of designers and front-end developers; established a healthy and fast-paced creative environment that engaged end-users frequently.
+
+Creative Director, Sapient Global Markets - New York, NY (2014 - 2015)
+* Introduced Lean UX practices in the design process to help accelerate the way Sapient UX teams were embedded in Agile environments.
+User Experience Director, Thomson Reuters - New York, NY (2007 - 2013)
+* Responsible for the interaction design of wearables, smartphones, and tablets for Thomson Reuters Eikon.
+* First certified ScrumMaster, building cross-functional teams and creating new methods to foster collaboration among UX designers, engineers, and product management.
+
+Education:
+Electrical Design - State Center of Technology Ferreira Viana - Rio de Janeiro, RJ

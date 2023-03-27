@@ -1,16 +1,24 @@
 ---
 title: Great Place To Work Hub
-subtitle: Product strategy on the Great Place to Work Hub, an interactive way to complement HCM data demographics with how employees feel about their workplace.
-date: 2019-07-24 00:00:00
-brief: It All Comes Down To Trust
-description: Trust is the main ingredient in building a great workplace for all. Establishing a foundation of trust in the workplace culture is the smartest investment you can make for your organization.
-featured_image: demo.jpg
-accent_color: "red"
-bg_color: "hsla(1, 100%, 50%, 0.1)"
+brief: Lead future vision strategy for Great Place to Work Hub, an interactive way to complement HCM data demographics with how employees feel about their workplace.
+subtitle: Lead future vision strategy for Great Place to Work Hub, an interactive way to complement HCM data demographics with how employees feel about their workplace.
+date: 2023-03-01 00:00:03
+description: Great Place to Work is dedicated to creating exceptional workplace cultures. By providing research, consultancy, and certification programs, it helps organizations foster trust, pride, and camaraderie among employees. Its annual best workplace lists inspire companies to be outstanding employers.
+featured_image: gptw-01.png
+accent_color: "#4C60E6"
+case_study: false
 gallery_images:
-  - demo.jpg
-  - demo.jpg
-  - demo.jpg
+  - gptw-00.png
+  - gptw-01.png
+  - gptw-02.png
+  - gptw-03.png
+  - gptw-04.png
+  - gptw-05.png
+  - gptw-06.png
+  - gptw-07.png
+  - gptw-08.png
+  - gptw-09.png
+  - gptw-10.png
 ---
 
 This page is a demo that shows everything you can do inside portfolio and blog posts.

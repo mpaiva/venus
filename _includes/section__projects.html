@@ -10,11 +10,14 @@
 
     <article class="project__preview">
       <h3 class="project__title">
+        {% if project.case_study %}
+
         <a
           href="{{ project.url | relative_url }}"
           style="color: {{ accent_color }} "
           >{{ project.title }}</a
         >
+        {% else %} {{ project.title }} {% endif %}
       </h3>
       <p class="project__brief">{{ project.brief | safeHTML }}</p>
 
@@ -37,8 +40,10 @@
         style="border-color: {{ accent_color }}"
       >
         <p class="project__subtitle subtitle--light">{{ project.subtitle }}</p>
-        <p class="project__description --small">
-          {{ project.description }}
+        <p class="project__description --small">{{ project.description }}</p>
+
+        {% if project.case_study %}
+        <p>
           <a
             href="{{ project.url | relative_url }}"
             class="project__link button--text --right"
@@ -46,6 +51,10 @@
             >View Case Study</a
           >
         </p>
+        {% else %}
+        <br />
+        <p>More details can be provided during interviews.</p>
+        {% endif %}
       </div>
     </article>
 

@@ -23,6 +23,12 @@ featured_image: /images/social.jpg
         <h1>{{ page.title }}</h1>
       </div>
 
+      {% if page.featured_image %} {% include image.html
+      url="/images/about/workshop.png" description="A heartwarming illustration
+      showcases a vibrant, multicultural group of children, featuring a spirited
+      boy in a wheelchair, as they joyfully collaborate to find a solution in a
+      truly inclusive manner." %} {% endif %}
+
       <p class="intro subtitle--light">
         {{ page.description }}
         <a href="#" class="hero__cta button--fill contact-trigger js-contact"
@@ -33,8 +39,7 @@ featured_image: /images/social.jpg
   </section>
   <hr style="margin: 80px" />
 
-  {% include section__about.html %} {% include section__projects.html %} {%
-  include section__testimonials.html %}
+  {% include section__about.html %} {% include section__projects.html %}
 
   <section class="recent-posts">
     <div class="wrap grid">

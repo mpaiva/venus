@@ -1,6 +1,6 @@
 basic_settings:
   site_title: paiva
-  favicon_image: /images/favicon.png
+  favicon_image: /images/favicon.ico
 
 header_settings:
   logo_image:
@@ -8,8 +8,12 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: "Projects"
+    - title: "Home"
       url: "/"
+    - title: "References"
+      url: "/references"
+    - title: "Resume"
+      url: "/resume"
     - title: "Blog"
       url: "/blog/"
 
@@ -22,17 +26,17 @@ hero_settings:
   background_image: /images/backgrounds/background-hero.svg
 
 projects_settings:
-  projects_title: Projects
+  projects_title: Recent Projects
   projects_description: "The following are some of my latest work available to be displayed publicly. Confidential material available to be glanced upon request."
 
 post_settings:
   grid_spacing: 10
 
 contact_settings:
-  email_address: ""
+  email_address: "mpaiva@gmail.com"
   form_action: "https://formspree.io/f/mayzdeyk"
   confirmation_url: "/thanks"
-  email_subject: "Contact form submission"
+  email_subject: "Venus Inquiry"
   send_button_text: "Get in Touch"
 
 #-------------------------------
@@ -130,7 +134,7 @@ testimonial__items:
 
 social_settings:
   facebook_url: ""
-  twitter_url: ""
+  twitter_url: "https://twitter.com/muqueca"
   instagram_url: ""
   snapchat_url: ""
   youtube_url: ""
@@ -154,7 +158,7 @@ social_settings:
   soundcloud_url: ""
   spotify_url: ""
   bandcamp_url: ""
-  linkedin_url: ""
+  linkedin_url: "https://www.linkedin.com/in/mtpaiva/"
 
 color_settings:
   background_color: "#ffffff"

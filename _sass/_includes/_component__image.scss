@@ -1,11 +1,19 @@
 .include__figure {
-  margin: 2rem 0;
+  margin: 3rem 0;
+  width: 100vw;
+  position: relative;
+  left: -32px;
+  max-width: 1200px;
+}
+
+.include__image {
 }
 
 .include__caption {
   font-family: $body-font;
   color: $text-dark-color;
-  background-color: $background-alt-color;
+  background-color: hsl(331, 84%, 98%);
+  border-bottom: 2px dashed #fcddec;
   letter-spacing: normal;
   font-size: small;
   line-height: 150%;

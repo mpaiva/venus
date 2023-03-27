@@ -2,20 +2,12 @@
 <!-- begin testimonials -->
 
 <div class="wrap grid">
-  <h2>{{ site.data.settings.testimonial__title }}</h2>
-
-  {% if site.data.settings.testimonial__description %}
-  <p class="section__description">
-    {{ site.data.settings.testimonial__description }}
-  </p>
-  {% endif %}
-
   <div class="testimonial-group">
     {% for testimonial__item in site.data.settings.testimonial__items %}
     <a href="{{testimonial__item.link}}" target="_blank" rel="noopener">
       <article class="testimonial">
         {% if testimonial__item.content %}
-        <blockquote>
+        <blockquote class="quote">
           {{ testimonial__item.content }}
           <div class="arrow" />
         </blockquote>

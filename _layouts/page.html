@@ -2,11 +2,17 @@
 layout: default
 ---
 
-<main class="page-post">
+{% if page.accent_color %}{% capture accent_color %}{{ page.accent_color }}{%
+endcapture %}{% endif %}
+
+<main class="page-post" style="--accent: {{ accent_color }}">
   <section class="post__header header--single">
     <div class="wrap">
       <h1 class="post__title">{{ page.title }}</h1>
-      <h2 class="post__subtitle subtitle--light">{{ page.subtitle }}</h2>
+      <p class="post__subtitle subtitle--light" style="margin-bottom: 1rem">
+        {{ page.subtitle }}
+      </p>
+      <p>{{ page.description }}</p>
     </div>
   </section>
 

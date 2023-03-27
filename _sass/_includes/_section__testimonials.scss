@@ -29,7 +29,7 @@ article.testimonial img {
   vertical-align: middle;
   filter: grayscale(100%);
 }
-article.testimonial blockquote {
+article.testimonial blockquote.quote {
   position: relative;
   font-family: $quote-font;
   background-color: #f7f7f7;
