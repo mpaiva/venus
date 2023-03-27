@@ -10,6 +10,14 @@ accent_color: "#4C60E6"
 url="/images/about/workshop.png" description="A heartwarming illustration showcases a vibrant, multicultural group of children, featuring a spirited boy in a wheelchair, as they joyfully collaborate to find a solution in a truly inclusive manner." %} {% endif
 %}
 
+Download a version of this page on the format that most suits your needs or assistive technology.
+
+<a href="/downloads/marcelo_paiva_resume.pdf" class="button--fill">PDF</a>
+<a href="/downloads/marcelo_paiva_resume.docx" class="button--fill">DOC</a>
+<a href="/downloads/marcelo_paiva_resume.rtf" class="button--fill">TXT</a>
+
+---
+
 ## Objective
 
 To leverage my 12+ years of experience in creating accessible and inclusive experiences for diverse user groups and provide thought leadership to UX design teams on Design Systems and Accessibility.
