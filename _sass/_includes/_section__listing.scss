@@ -43,14 +43,13 @@
   }
 
   .owl-dots {
-    position: absolute;
-    bottom: -50px;
+    position: relative;
     margin: 8px 0 16px 0;
 
     .owl-dot {
       width: 24px;
       height: 24px;
-      margin-right: 8px;
+      margin: 8px 8px 8px 0;
       padding: 8px;
       border: 1px solid var(--accent);
       border-radius: 8px;
@@ -170,7 +169,7 @@
 
   .project__subtitle,
   .project__description {
-    // max-width: 456px;
+    max-width: 456px;
   }
 
   .project__subtitle {
