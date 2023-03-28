@@ -7,6 +7,9 @@
     <time class="post__date label--small"
       >{{ post.date | date: "%B %d, %Y" }}</time
     >
+    {% if post.author %} -
+    <span class="post__date label">By {{ post.author }}</span>
+    {% endif %}
     <h3 class="post__title subtitle">{{ post.title }}</h3>
   </a>
 </article>

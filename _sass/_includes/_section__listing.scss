@@ -5,7 +5,7 @@
 // - - - - - - - - - - - - - - - - - -
 
 .listing {
-  margin-bottom: 120px;
+  margin-bottom: 0;
   padding: 80px 0 120px;
   overflow: hidden;
   background-color: #f7f7f7;
@@ -169,7 +169,7 @@
 
   .project__subtitle,
   .project__description {
-    max-width: 456px;
+    // max-width: 456px;
   }
 
   .project__subtitle {

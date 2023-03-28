@@ -33,7 +33,7 @@
   }
 
   @include mq(tabletp) {
-    padding: 40px 0 180px;
+    padding: 40px 0 0;
 
     .wrap {
       // grid-template-columns: 1fr 1fr;

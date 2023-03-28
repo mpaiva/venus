@@ -74,22 +74,24 @@ description="A blind female software engineer confidently navigating her vivid, 
 By involving people with disabilities in the design process, engineers can create more accessible products that cater to a wider range of users. This leads to a better user experience for everyone, including those with disabilities.
 
 {% include image.html
-url="/images/posts/2023-03-28-img-02.png"
-description="A blind user happily using an accessible product"
+url="/images/posts/2023-03-28-img-05.png"
+description="A blind user wearing dark glasses confidently interacts with a mobile app using a screen reader, as his fingers glide across the touchscreen.
+
+"
 %}
 
 ### Greater Innovation
 
 Inclusive design can also lead to greater innovation, as it encourages engineers to think outside the box and find creative solutions to accessibility challenges. This can result in products that are not only accessible but also more versatile and adaptable to different user needs.
 
-{% include image.html
-url="/images/posts/2023-03-28-img-02.png"
-description="Designers and engineers working together to find innovative accessibility solutions."
-%}
-
 ### Enhanced Reputation and Market Reach
 
 Products that are designed with accessibility in mind can help an organization build a positive reputation for being socially responsible and inclusive. Additionally, by creating accessible products, organizations can tap into the large and growing market of consumers with disabilities.
+
+{% include image.html
+url="/images/posts/2023-03-28-img-06.png"
+description="A cross-functional team poses happily for a selfie, celebrating the success of the product launch created with Accessibility in mind and inclusive of people with disabilities."
+%}
 
 ## Conclusion:
 

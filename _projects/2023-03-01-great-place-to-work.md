@@ -1,9 +1,9 @@
 ---
 title: Great Place To Work Hub
-brief: Lead future vision strategy for Great Place to Work Hub, an interactive way to complement HCM data demographics with how employees feel about their workplace.
-subtitle: Lead future vision strategy for Great Place to Work Hub, an interactive way to complement HCM data demographics with how employees feel about their workplace.
+brief: I spearheaded the future vision for Great Place to Work Hub, mapping Diversity, Equity, and Inclusion demographic data with employees Belonging sentiment.
+subtitle: It all comes down to leadership. Maximizing human potential through leadership effectiveness is vital for businesses to thrive in this new For All business frontier.
 date: 2023-03-01 00:00:03
-description: Great Place to Work is dedicated to creating exceptional workplace cultures. By providing research, consultancy, and certification programs, it helps organizations foster trust, pride, and camaraderie among employees. Its annual best workplace lists inspire companies to be outstanding employers.
+description: Great Place to Work focuses on cultivating top workplace cultures through research, consultancy, and certifications, promoting trust, pride, and camaraderie while inspiring organizations to excel as employers.
 featured_image: gptw-01.png
 accent_color: "#4C60E6"
 case_study: false

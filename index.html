@@ -3,7 +3,7 @@ layout: default
 overtitle: Marcelo Paiva
 title: Experiences with Accessibility in mind
 description: I design and develop experiences with people with disabilities in mind. I love learning new things and sharing with the community.
-featured_image: /images/social.jpg
+featured_image: /images/about/workshop.png
 ---
 
 <div class="page-home">
@@ -21,6 +21,13 @@ featured_image: /images/social.jpg
       <div class="title">
         <p class="subtitle">{{ page.overtitle }}</p>
         <h1>{{ page.title }}</h1>
+        <br />
+        <p class="intro subtitle--light" style="margin-bottom: 80px">
+          {{ page.description }}
+          <a href="#" class="hero__cta button--fill contact-trigger js-contact"
+            >Get In Touch</a
+          >
+        </p>
       </div>
 
       {% if page.featured_image %} {% include image.html
@@ -28,16 +35,8 @@ featured_image: /images/social.jpg
       showcases a vibrant, multicultural group of children, featuring a spirited
       boy in a wheelchair, as they joyfully collaborate to find a solution in a
       truly inclusive manner." %} {% endif %}
-
-      <p class="intro subtitle--light">
-        {{ page.description }}
-        <a href="#" class="hero__cta button--fill contact-trigger js-contact"
-          >Get In Touch</a
-        >
-      </p>
     </div>
   </section>
-  <hr style="margin: 80px" />
 
   {% include section__about.html %} {% include section__projects.html %}
 
@@ -45,6 +44,12 @@ featured_image: /images/social.jpg
     <div class="wrap grid">
       <section class="recent-posts__header" aria-labelledby="section-blog">
         <h2 id="section-blog">Recent blog posts</h2>
+
+        <a
+          href="{{ '/blog' | relative_url }}"
+          class="action-bottom button--text--accent --right"
+          >View all Posts</a
+        >
         <a
           href="{{ '/blog' | relative_url }}"
           class="action button--text--accent --right"
@@ -53,14 +58,14 @@ featured_image: /images/social.jpg
       </section>
 
       <div class="recent-posts__list grid">
-        {% for post in site.posts limit: 3 %} {% include
+        {% for post in site.posts limit: 5 %} {% include
         component__post-preview.html %} {% endfor %}
       </div>
 
       <a
         href="{{ '/blog' | relative_url }}"
         class="action-bottom button--text--accent --right"
-        >All Posts</a
+        >View all Posts</a
       >
     </div>
   </section>
