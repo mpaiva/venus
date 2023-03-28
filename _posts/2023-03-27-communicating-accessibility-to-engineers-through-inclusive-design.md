@@ -4,7 +4,7 @@ title: "Communicating Accessibility to Engineers Through Inclusive Design"
 description: "How involving people with disabilities early in the design process can lead to more accessible products"
 author: Marcelo Paiva
 featured_image: "/images/posts/2023-03-28-featured_image.png"
-featured_image_description: A software engineer appears frustrated with a product designer due to the lack of clear accessibility guidelines in the design deliverables.
+featured_image_description: A software engineer and a product designer looking confused due to the lack of clear accessibility guidelines in the design deliverables.
 accent_color: "#f60"
 ---
 
