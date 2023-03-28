@@ -1,7 +1,7 @@
 ---
 title: References
-subtitle: Colleagues that can vouch for my experience, leadership and professionalism
-description: Everything I know, I learned through experiencing relationships with amazing talent. Leadership comes and goes, team members will remain good colleagues and friends forever. I am greatful for these people crossing my path and most importantly, caring to leave their genuine recommendations on LinkedIn.
+subtitle: I am delighted to present the following esteemed individuals as references, who can attest to my work ethic, skills, and contributions in both professional and personal capacities.
+description: I am deeply grateful for the incredible, talented professionals I've had the privilege to work with. Though leadership may change, the bonds formed with colleagues and friends endure. I cherish the genuine recommendations they've shared on LinkedIn and feel truly fortunate that our paths have crossed.
 featured_image: "/images/social.jpg"
 accent_color: "#4C60E6"
 ---
@@ -10,19 +10,28 @@ accent_color: "#4C60E6"
 
 ---
 
-<blockquote>
+<blockquote class="accent">
 
-I work.<br/>
-I create.<br/>
-I practice.<br/>
-I learn.<br/>
-I share.<br/>
-<span>I give a damn<br/>
-about All users.</span>
+<span>team is...</span><br/>
+Multidisciplinary<br/>
+Intersectional<br/>
+Collaborative<br/>
+Multicultural<br/>
+Transparent<br/>
+Respectful<br/>
+Innovative<br/>
+Organized<br/>
+Adaptable<br/>
+Inclusive<br/>
+Efficient<br/>
+Positive<br/>
+United<br/>
+Messy<br/>
+Many<br/>
+Us<br/>
+<span>+1</span>
 
 </blockquote>
-
----
 
 ---
 

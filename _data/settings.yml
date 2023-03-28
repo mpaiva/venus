@@ -10,12 +10,12 @@ menu_settings:
   menu_items:
     - title: "Home"
       url: "/"
-    - title: "References"
-      url: "/references"
-    - title: "Resume"
-      url: "/resume"
     - title: "Blog"
       url: "/blog/"
+    - title: "Resume"
+      url: "/resume"
+    - title: "References"
+      url: "/references"
 
 footer_settings:
   logo_image:
