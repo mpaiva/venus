@@ -12,12 +12,20 @@ endcapture %}{% endif %}
       <time class="post__date label"
         >{{ page.date | date_to_long_string }}</time
       >
+      {% if page.author %} -
+      <span class="post__date label">By {{ page.author }}</span>
+      {% endif %}
     </div>
-
-    <img
-      src="{{ page.featured_image | relative_url }}"
-      class="post__featured-image"
-    />
+    <figure class="include__figure">
+      <img
+        src="{{ page.featured_image | relative_url }}"
+        class="post__featured-image"
+        alt="{{ page.featured_image_description }}"
+      />
+      <figcaption class="include__caption">
+        {{ page.featured_image_description }}
+      </figcaption>
+    </figure>
   </section>
 
   <section class="post-full">

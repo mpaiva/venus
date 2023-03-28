@@ -34,9 +34,9 @@
 
     blockquote.accent {
       border-left-color: var(--accent);
-      font-family: $body-font;
+      font-family: $title-font;
       font-size: $h4-size * 0.8;
-      line-height: $h4-lineheight * 0.8;
+      line-height: $h4-lineheight * 1.2;
       letter-spacing: $h4-spacing;
       span {
         color: var(--accent);

@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Migrating to Figma, without the drama.
-description: As design tools release real-time collaboration features, design teams struggle to adapt to this new way of working. These new features invite designers - and managers - to be more thoughtful about scalable interface design architecture.
 date: 2021-05-09
+title: Migrating to Figma, without the drama.
+author: Marcelo Paiva
+description: As design tools release real-time collaboration features, design teams struggle to adapt to this new way of working. These new features invite designers - and managers - to be more thoughtful about scalable interface design architecture.
 featured_image: /images/posts/p2-cover.png
-tags: figma sketch design-ops team collaboration
+featured_image_description: describe it you lazy ass
+accent_color: "#f60"
 ---
 
 The increasing demand for design teams to become more efficient presents challenges that have been in question since the early days of digital product design.

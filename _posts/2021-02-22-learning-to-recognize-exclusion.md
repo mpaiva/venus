@@ -1,11 +1,12 @@
 ---
 layout: post
 title: Learning to recognize exclusion
-description:
+description: description
 date: 2021-02-22
-co-author: Lesley-Ann Noel, PhD.
+author: Marcelo Paiva, Lesley-Ann Noel, PhD.
 featured_image: /images/posts/austin-distel-WtXcbWXK_ww-unsplash.jpg
-tags: inclusive-design empathy racism positionality design-thinking
+featured_image_description: describe it you lazy ass
+accent_color: "#f60"
 ---
 
 by [Lesley-Ann Noel](https://uxpajournal.org/author/lesley-ann-noel/ "Posts by Lesley-Ann Noel"), [Marcelo Paiva](https://uxpajournal.org/author/marcelo-paiva/ "Posts by Marcelo Paiva")

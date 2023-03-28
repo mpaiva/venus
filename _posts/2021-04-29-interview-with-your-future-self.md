@@ -4,10 +4,13 @@ title: "Interview with your future self"
 description: In this time-travel activity, I propose an activity that focuses on creating an inclusive mindset from the standpoint that a lack of disability is, in fact, only temporary.
 date: 2021-04-29 18:05:55 +0300
 featured_image: /images/posts/glen-hodson-NlHGKAZ3jCI-unsplash.jpg
-tags: inclusive-design ageism empathy
+featured_image_description: A smiling elderly woman, her face adorned with a multitude of wrinkles, gazes at the camera, conveying a sense of reassurance that all will be well.
+accent_color: "#f60"
 author: Marcelo Paiva
 accent_color: "#4C60E6"
 ---
+
+<blockquote class="accent"> "Although the world is full of suffering, it is also full of the overcoming of it."<br/> <span>- Helen Keller </span></blockquote>
 
 ## How does our own bias get  in the middle of our design decisions?
 
