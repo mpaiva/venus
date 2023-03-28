@@ -44,6 +44,11 @@ Don Norman is one of the fathers of User Experience, and he wrote a popular book
 
 ![The Design of Everyday Things by Don Norman, 1988. Illustration by Zachary Monteiro]({{ site.baseurl }}/images/posts/post-01d.png)
 
+<blockquote class="accent">"I wrote a book on user-friendly design. What I see today (at 85) horrifies me."
+<br>
+<span>- Donald Norman, 2019</span>
+</blockquote>
+
 <p class="caption">The Design of Everyday Things by Don Norman, 1988. Illustration by Zachary Monteiro</p>
 
 In this recent article, he describes how much he didn't know about his future when he wrote his famous design book back in 1980:
