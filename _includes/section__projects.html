@@ -25,14 +25,21 @@
         class="project__images owl-carousel"
         style="--accent: {{ accent_color }}"
       >
-        {% for image in project.gallery_images %}
-        <a href="{{ project.url | relative_url }}"
-          ><img
+        {% for image in project.gallery_images %} {% if project.case_study %}
+        <a href="{{ project.url | relative_url }}">
+          <img
             src="{{ '/images/projects/' | relative_url}}{{ image }}"
             alt=""
             class="project__image"
-        /></a>
-        {% endfor %}
+          />
+        </a>
+        {% else %}
+        <img
+          src="{{ '/images/projects/' | relative_url}}{{ image }}"
+          alt=""
+          class="project__image"
+        />
+        {% endif %} {% endfor %}
       </div>
 
       <div
