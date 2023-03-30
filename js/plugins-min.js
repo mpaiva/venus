@@ -2652,18 +2652,16 @@
           top: n.offset().top - r.offset().top,
           left: n.offset().left - r.offset().left,
         }),
-          i
-            .find(".fluidbox__loader")
-            .css({
-              transform:
-                "translate(" +
-                parseInt(100 * w) / 100 +
-                "px," +
-                parseInt(100 * _) / 100 +
-                "px) scale(" +
-                x +
-                ")",
-            }),
+          i.find(".fluidbox__loader").css({
+            transform:
+              "translate(" +
+              parseInt(100 * w) / 100 +
+              "px," +
+              parseInt(100 * _) / 100 +
+              "px) scale(" +
+              x +
+              ")",
+          }),
           i.trigger("computeend.fluidbox");
       },
       recompute: function () {
@@ -4505,7 +4503,7 @@
         '<span aria-label="next">&#x203a;</span>',
       ],
       navSpeed: !1,
-      navElement: 'button role="presentation" value="button"',
+      navElement: 'button role="presentation" type="button" value="button"',
       navContainer: !1,
       navContainerClass: "owl-nav",
       navClass: ["owl-prev", "owl-next"],
@@ -4548,9 +4546,9 @@
           )),
         i.dotsData ||
           (this._templates = [
-            t("<button>")
+            t('<button type="button" value="button">')
               .addClass(i.dotClass)
-              .append(t("<span>"))
+              .append(t('<span role="img" aria-label="dot">'))
               .prop("outerHTML"),
           ]),
         (this._controls.$absolute = (
