@@ -7,6 +7,9 @@ split: "," %}
   data-columns="{{ columns }}"
 >
   {%- for image in images -%}
-  <img src="{{ image | relative_url }}" alt="" />
+  <img
+    src="{{ image | relative_url }}"
+    alt="Image {{forloop.index}} of {{forloop.length}}"
+  />
   {%- endfor -%}
 </div>
