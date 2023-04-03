@@ -47,6 +47,6 @@ Download the format that most suits your needs or assistive technology.
 
 <a href="{{ '/downloads/marcelo_paiva_resume.pdf' | relative_url }}" class="button--fill">PDF</a>
 <a href="{{ '/downloads/marcelo_paiva_resume.docx' | relative_url }}" class="button--fill">DOC</a>
-<a href="{{ '/downloads/marcelo_paiva_resume.rtf' | relative_url }}" class="button--fill">TXT</a>
+<a href="{{ '/downloads/marcelo_paiva_resume.txt' | relative_url }}" class="button--fill">TXT</a>
 
 ---
