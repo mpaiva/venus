@@ -45,8 +45,8 @@ Send me a message via a form inquiry, I will respond as soon as possible.
 
 Download the format that most suits your needs or assistive technology.
 
-<a href="{{ '/downloads/marcelo_paiva_resume.pdf' | relative_url }}" target="_blank" class="button--fill">PDF</a>
-<a href="{{ '/downloads/marcelo_paiva_resume.docx' | relative_url }}" target="_blank" class="button--fill">DOC</a>
-<a href="{{ '/downloads/marcelo_paiva_resume.txt' | relative_url }}" target="_blank" class="button--fill">TXT</a>
+<a href="https://www.dropbox.com/s/8tek6avpotzy9ve/marcelo_paiva_resume.pdf?dl=0" target="_blank" class="button--fill">PDF</a>
+<a href="https://www.dropbox.com/s/a1dg42w7em0y2lr/marcelo_paiva_resume.docx?dl=0" target="_blank" class="button--fill">DOC</a>
+<a href="https://www.dropbox.com/s/ljtm4i39qmxqkou/marcelo_paiva_resume.txt?dl=0" target="_blank" class="button--fill">TXT</a>
 
 ---
