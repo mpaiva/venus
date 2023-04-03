@@ -28,8 +28,7 @@ Positive<br/>
 United<br/>
 Messy<br/>
 Many<br/>
-Us<br/>
-<span>+1</span>
+<span>Us + 1</span>
 
 </blockquote>
 
