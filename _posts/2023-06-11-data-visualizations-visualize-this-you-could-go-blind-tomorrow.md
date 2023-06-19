@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Data Visualizations… Visualize this: you’re blind."
+title: "Data Visualizations… Visualize this: you could go blind tomorrow."
 description: "It is unfortunate the way we designers typically present data – through infographics, maps, charts, and other visual formats – inherently favoring sighted and with a higher than average literacy level. This exclusionary approach leaves many people behind, particularly those with visual impairment or cognitive disabilities. As designers and developers, it's time we broaden our perspective and champion inclusivity."
 date: 2023-06-11
 author: Marcelo Paiva
@@ -11,11 +11,13 @@ accent_color: "#f60"
 
 # Reimagining Data Insights for an Inclusive Future
 
-Data is the lifeblood of our digital age, driving decision-making across various industries and disciplines. But here's something to consider: what if you're blind? The way we typically present data - through infographics, maps, charts, and other visual formats - inherently favors those with good sight and above-average literacy levels. This exclusionary approach neglects those with visual impairment or cognitive disabilities. As designers and developers, it's high time we broaden our perspective and champion inclusivity.
+Data is the lifeblood of our digital age, driving decision-making across various industries and disciplines. But here's something to consider: what if you're blind? The way we typically present data - through infographics, maps, charts, and other visual formats - inherently favors those with good sight and above-average literacy levels.
 
-## Moving Beyond Visual Bias
+<blockquote class="accent"> This exclusionary approach neglects those with visual impairment or cognitive disabilities. As designers and developers, it's high time we broaden our perspective and champion inclusivity.</blockquote>
 
-Let's start by redefining 'data visualizations'. While it emphasizes the visual interpretation of data, it often overlooks users who perceive data differently. I propose we shift to the term 'data insights', a more inclusive concept that caters to all users, regardless of their visual capability or cognitive abilities.
+## Stop the Visual Bias
+
+Let's start by redefining 'data visualizations'. While it emphasizes the visual interpretation of data, this term overlooks users who perceive data differently. I propose we shift to the term 'data insights', a more inclusive concept that caters to all users, regardless of their visual capability or cognitive abilities.
 
 ## Communication Over Medium
 
@@ -23,23 +25,23 @@ Determining how to present data before considering who will consume it is akin t
 
 ## The Importance of a Content-First Approach
 
-In my previous discussions on creating better accessibility, I've stressed the importance of a content-first approach. It allows me to begin testing concepts with people with disabilities early in the design process. The creation of universally understandable data insights doesn't require a complex process; it merely involves infusing intention into our design practices.
+In a previous post, titled [Communicating Accessibility Through Inclusive Design](https://mpaiva.github.io/venus/blog/communicating-accessibility-through-inclusive-design), I have written about the importance of including people with disabilities in design teams, and created a personal web tool called [No Latin](https://nolatin.com) to help UX professionals adopting a content-first approach, and begin testing concepts with people with disabilities early in the design process. The creation of universally understandable data insights doesn't require a complex process; it merely involves infusing intention into the design practices.
 
-## Decoding the Data Story
+### What’s the story behind the data?
 
-Instead of focusing on the chart type to use for a dataset, try narrating what the data signifies. Describe it without depending on visual cues. For instance, consider the following data record published by the United States Office of Special Education Programs (OSEP):
+Instead of beginning by focusing on which chart type to use for a dataset, try narrating what the data might mean to the user. Describe it without depending on visual cues. For instance, consider the following data record published by the United States Office of Special Education Programs (OSEP):
 
-"Number of children in early childhood programs served under Individuals with Disability Education Act (IDEA), Part B, by disability and state: 2021-22."
+#### Data Table: "Number of children in early childhood programs served under Individuals with Disability Education Act (IDEA), Part B, by disability and state: 2021-22."
 
 This dataset offers a detailed child count of varying disabilities, ages 3 through 5 served under IDEA across all US states and territories.
 
 From a preliminary overview, some patterns and high-level findings emerge:
 
-- Autism has a significant presence in most states, with California reporting over 13,000 cases—the highest in this category.
-- Some disabilities, like Deaf-blindness, appear less frequently, indicating these conditions might be less common or underreported.
-- Certain disabilities, such as Specific Learning Disabilities and Speech or Language Impairments, are notably high in states like California and New York.
+<blockquote class="accent">Autism has a significant presence in most states, with California reporting over 13,000 cases—the highest in this category.</blockquote>
+<blockquote class="accent">Some disabilities, like Deaf-blindness, appear less frequently, indicating these conditions might be less common or underreported.</blockquote>
+<blockquote class="accent">Certain disabilities, such as Specific Learning Disabilities and Speech or Language Impairments, are notably high in states like California and New York.</blockquote>
 
-## Conveying the Story Effectively
+### Conveying the Story Effectively
 
 Now that we have a narrative, the next step is figuring out the best way to communicate it. The key here is NOT to start deciding which data visualization type to use. Instead, imagine how a screen reader user would experience the story. Start by designing with words and then consider adding features like a bar graph, ensuring all features meet the accessibility requirements for data visualizations.
 
@@ -94,12 +96,12 @@ We used a web tool to create priority guides and export an accessible prototype,
 
 We can share the prototype with our usability study participants, including people with disabilities, using the link below:
 
-https://nolatin.com/share/child-count-001
+[Accessible prototype](https://nolatin.com/share/child-count-001)
 
 ## Final Testing Stage before designing the interface layout
 
 Before recruiting participants for a usability study, we always test the page with screen readers. We pay close attention to how the page navigation works and how the screen reader pronounces the content.
 
-By shifting our focus from visual bias to inclusivity, we can create a more equitable data experience for all. Let's remember that behind every data point is a human experience. The first principle of Inclusive Design is to recognize exclusion, and by acknowledging and addressing the different ways people interact with data, we can foster a more inclusive, comprehensive, and effective communication strategy.
+By shifting our focus from visual bias to inclusivity, we can create a more equitable data experience for all. Let's remember that behind every data point is a human experience. As the first principle of Inclusive Design suggests, we need to [learn recognize exclusion](https://mpaiva.github.io/venus/blog/learning-to-recognize-exclusion). By acknowledging and addressing the different ways people interact with data, we can foster a more inclusive, comprehensive, and effective communication strategy.
 
 In future posts, I will document our user research outcomes.

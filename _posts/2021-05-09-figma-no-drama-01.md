@@ -5,7 +5,7 @@ title: Migrating to Figma, without the drama.
 author: Marcelo Paiva
 description: As design tools release real-time collaboration features, design teams struggle to adapt to this new way of working. These new features invite designers - and managers - to be more thoughtful about scalable interface design architecture.
 featured_image: /images/posts/p2-cover.png
-featured_image_description: describe it you lazy ass
+featured_image_description: Migrating from Sketch to Figma and its challenges.
 accent_color: "#f60"
 ---
 
