@@ -5,7 +5,7 @@ description: "It is unfortunate the way we designers typically present data – 
 date: 2023-06-11
 author: Marcelo Paiva
 featured_image: /images/posts/markus-winkler-IrRbSND5EUc-unsplash.jpg
-featured_image_description: Photo by <a href="https://unsplash.com/@markuswinkler?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Markus Winkler</a> on <a href="https://unsplash.com/photos/IrRbSND5EUc?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
+featured_image_description: A photo of a line chart emphasizing the visual representation of the data, which unconsciously neglects non-sighted users who perceive data differently. Photo credits to Markus Winkler from Unsplash.
 accent_color: "#f60"
 ---
 
