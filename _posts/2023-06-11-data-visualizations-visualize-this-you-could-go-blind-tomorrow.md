@@ -120,23 +120,96 @@ Here are some highlights we extracted from this data before getting into the det
 
 - Specific Learning Disabilities and Speech or Language Impairments are considerably high in some states like California and New York, which might reflect the larger population in these states or more comprehensive reporting.
 
-Our high-level findings from the <dfn><abbr title="Office of Special Education Programs">OSEP</abbr></dfn> dataset can be summarized as follows:
+### Key Indicators
 
-- There were 471,377 cases of children with disabilities in all states during 2021-2022.
-- Developmental Delay was the most common disability type, with 216,727 reported cases.
-- Autism is significantly prevalent, with California reporting over 13,000 cases.
-- Conditions like Deaf-blindness are less frequently reported.
-- Specific Learning Disabilities and Speech or Language Impairments are notably high in some states like California and New York.
+This section showcases the top states and top disabilities reported in this data.
 
-This summary allows any user to gather sufficient information without needing to navigate a potentially hard-to-read spreadsheet file.
+#### Top 5 states by all disabilities
 
-## Putting Words to Work
+States and territories sorted by the reported number of all disabilities
 
-Most UX professionals struggle to incorporate accessibility considerations into their design process, leading to subpar experiences for users with disabilities. Over my 12 years of experience creating enterprise-level platforms, I've noticed that content and accessibility are often afterthoughts.
+1. California: 41,751
+2. New York: 40,172
+3. Texas: 29,975
+4. Pennsylvania: 28,317
+5. Illinois: 22,755
 
-For the Child Count report, we adopted a content-first approach, built an accessible prototype, and created priority guides to understand user needs and desired outcomes.
+#### Top 3 disabilities in all states
 
-We used a web tool to create priority guides and export an accessible prototype, considering the following accessibility features:
+Largest number of disabilities reported in all States and territories.
+
+##### Autism was the top disability reported between 2021–2022.
+
+Top ten states with the highest number of cases of Autism were:
+
+1. California: 13,223
+2. Texas: 8,701
+3. Pennsylvania: 4,256
+4. Ohio: 3,175
+5. Massachusetts: 2,606
+6. North Carolina: 2,106
+7. Florida: 2,212
+8. Illinois: 1,974
+9. Michigan: 1,270
+10. Minnesota: 1,221
+
+##### Specific Learning Disabilities was the second largest disability reported between 2021–2022.
+
+Top ten states with the highest number of cases of Specific Learning Disabilities were:
+
+1. California: 23,468
+2. Texas: 15,353
+3. Pennsylvania: 9,393
+4. Illinois: 8,294
+5. Ohio: 8,000
+6. Michigan: 6,457
+7. Indiana: 5,882
+8. Kentucky: 4,796
+9. Wisconsin: 4,357
+10. Utah: 3,593
+
+##### Speech or Language Impairments
+
+Third largest disability reported between 2021–2022.
+
+1. California: 23,468
+2. Texas: 15,353
+3. Pennsylvania: 9,393
+4. Illinois: 8,294
+5. Ohio: 8,000
+6. Michigan: 6,457
+7. Wisconsin: 4,357
+8. Florida: 3,785
+9. Utah: 3,593
+10. New York: 2,880
+
+### Parents Resources
+
+Remember, you're not alone in this journey. There are many resources available to support you and your child. It may take time to find the best strategies and interventions for your child, but with patience and support, progress is possible.
+
+There are many resources available to parents of children with disabilities, from government programs and non-profit organizations to online communities and educational resources. The following are some resources we are gathering to provide parents in the near future:
+
+- Resource item with link will be here in the future
+- Resource item with link will be here in the future
+- Resource item with link will be here in the future
+
+### Contact Us
+
+Do you have a question or suggest about this report or data? Please send us a message in the form below and we will respond via email as early as possible.
+
+- Enter your name:
+  - text input
+- Your email address
+  - email input
+- What's your comment or question?
+  - textarea input
+- Send button
+
+## Step 4: Rapid Prototyping with Accessibility in Mind
+
+Most UX professionals struggle to incorporate accessibility considerations into their design process, leading to subpar experiences for users with disabilities. This is mostly because Agile teams tend to implement content design and Accessibility towards the end of the design and development cycle.
+
+For this exercise, we used a web tool to create priority guides and export a fully accessible prototype including the following Accessibility features:
 
 - Detailed skip-links
 - Purposeful landmarks
