@@ -61,10 +61,45 @@ Creating priority guides is fun and quick. Here is our proposed hierarchy:
 1. Header and navigation
 2. Report name
 3. About the report
-4. Summary
+4. Quick Summary
 5. Key indicators
 6. Parents Resources
 7. Contact us
+
+## Step 3: Describe each section further
+
+Putting another level of intent into these simple sections, our priority guides will start taking shape in a way our screen reader user will be able to understand the meaning of the data effortlessly.
+
+### Header and navigation
+
+- Title: Child Count by States
+- Description: This dataset provides a detailed child count with various disabilities, ages 3 through 5 served under IDEA across all states and territories of the United States.
+
+### Report Name
+
+- Title: IDEA Section 618 Data Products
+- Description: Section 618 of the Individuals with Disabilities Education Act (IDEA) requires that each state submit data about the infants and toddlers, birth through age 2, who receive early intervention services under Part C of IDEA and children with disabilities, ages 3 through 21, who receive special education and related services under Part B of IDEA.
+
+### About this data:
+
+- Updated: 3 months ago.
+- License: Creative Commons CCZero
+- Publisher: Office of Special Education Programs (OSEP)
+- Tags: #count #data-products #disability
+
+### Quick Summary
+
+Here are some highlights we extracted from this data before getting into the details:
+
+- In the period between 2021 and 2022, there were 471,377 cases of children with disabilities in all states.
+
+- There were 216,727 children with Developmental Delay in all states. This was the largest disability type, followed by Speech or language impairments with 158,832 cases reported.
+
+- Autism seems to have a considerable presence in most states. For instance, California reports over 13,000 cases, the highest in this category, representing three times more than the second highest, Pennsylvania with just over 4,000 cases, followed by Ohio with over 3,000.
+
+- Some types of disabilities, like Deaf-blindness, appear less frequently in the dataset, indicating these conditions might be less common or underreported.
+
+- Specific Learning Disabilities and Speech or Language Impairments are considerably high in some states like California and New York, which might reflect the larger population in these states or more comprehensive reporting.
 
 Our high-level findings from the <dfn><abbr title="Office of Special Education Programs">OSEP</abbr></dfn> dataset can be summarized as follows:
 
