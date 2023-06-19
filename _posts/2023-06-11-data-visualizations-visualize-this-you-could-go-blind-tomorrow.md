@@ -23,7 +23,7 @@ Let's start by redefining 'data visualizations'. While it emphasizes the visual 
 
 Determining how to present data before considering who will consume it is akin to buying a car solely based on color. Let's instead adopt a narrative approach, focusing on the story the data tells.
 
-## The Importance of a Content-First Approach
+### The Importance of a Content-First Approach
 
 In a previous post, titled [Communicating Accessibility Through Inclusive Design](https://mpaiva.github.io/venus/blog/communicating-accessibility-through-inclusive-design), I have written about the importance of including people with disabilities in design teams, and created a personal web tool called [No Latin](https://nolatin.com) to help UX professionals adopting a content-first approach, and begin testing concepts with people with disabilities early in the design process. The creation of universally understandable data insights doesn't require a complex process; it merely involves infusing intention into the design practices.
 
@@ -226,6 +226,6 @@ We can share the prototype with our usability study participants, including peop
 
 Before recruiting participants for a usability study, we always test the page with screen readers. We pay close attention to how the page navigation works and how the screen reader pronounces the content.
 
-By shifting our focus from visual bias to inclusivity, we can create a more equitable data experience for all. Let's remember that behind every data point is a human experience. As the first principle of Inclusive Design suggests, we need to [learn recognize exclusion](https://mpaiva.github.io/venus/blog/learning-to-recognize-exclusion). By acknowledging and addressing the different ways people interact with data, we can foster a more inclusive, comprehensive, and effective communication strategy.
+By shifting our focus from visual bias to inclusivity, we can create a more equitable data experience for all. Let's remember that behind every data point is a human experience. As the first principle of Inclusive Design suggests, we need to [learn to recognize exclusion](https://mpaiva.github.io/venus/blog/learning-to-recognize-exclusion). By acknowledging and addressing the different ways people interact with data, we can foster a more inclusive, comprehensive, and effective communication strategy.
 
 In future posts, I will document our user research outcomes.
