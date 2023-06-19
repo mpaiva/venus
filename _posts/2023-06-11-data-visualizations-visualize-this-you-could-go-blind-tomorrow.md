@@ -52,21 +52,21 @@ When a screen reader user lands on a web page reporting the aforementioned data,
 - Ensure proper heading names and a well-structured hierarchy that support assistive technologies like screen readers.
 - Prioritize content representation over visual display.
 
-## Step 2: Design with Words!
+## Step 2: Designing with words
 
 Don't rush into visualizing the data. Start by designing with words and at a later stage consider adding features like a bar graph, ensuring all features meet the accessibility requirements for data visualizations.
 
 Creating priority guides is fun and quick. Here is our proposed hierarchy:
 
-1. Header and navigation
+1. **Header and navigation**
    - Page name and description
-2. Report name
+2. **Report name**
    - Title and description
-3. About the report
+3. **About the report**
    - Report metadata
-4. Quick Summary
+4. **Quick Summary**
    - List of data highlights
-5. Key indicators
+5. **Key indicators**
    - Top 5 States by All Disabilities
      - State 1
      - State 2
@@ -77,15 +77,15 @@ Creating priority guides is fun and quick. Here is our proposed hierarchy:
      - Indicator 1
      - Indicator 2
      - Indicator 3
-6. Parents Resources
+6. **Parents Resources**
    - List of resources
-7. Contact us
+7. **Contact us**
    - Name
    - E-mail address
    - Message
    - Submit Button
 
-## Step 3: Describe each section further
+## Step 3: Describing each section further
 
 Putting another level of intent into these simple sections, our priority guides will start taking shape in a way our screen reader user will be able to understand the meaning of the data effortlessly.
 
