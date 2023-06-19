@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "So you design Data Visualizations? Visualize this: you could go blind tomorrow."
+title: "So, you design Data Visualizations. Visualize this: you could go blind tomorrow."
 description: "It is unfortunate the way we designers typically present data – through infographics, maps, charts, and other visual formats – inherently favoring sighted and with a higher than average literacy level. This exclusionary approach leaves many people behind, particularly those with visual impairment or cognitive disabilities. As designers and developers, it's time we broaden our perspective and champion inclusivity."
 date: 2023-06-11
 author: Marcelo Paiva
