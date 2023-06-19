@@ -59,12 +59,31 @@ Don't rush into visualizing the data. Start by designing with words and at a lat
 Creating priority guides is fun and quick. Here is our proposed hierarchy:
 
 1. Header and navigation
+   - Page name and description
 2. Report name
+   - Title and description
 3. About the report
+   - Report metadata
 4. Quick Summary
+   - List of data highlights
 5. Key indicators
+   - Top 5 States by All Disabilities
+     - State 1
+     - State 2
+     - State 3
+     - State 4
+     - State 5
+   - Top 3 disabilities in All States
+     - Indicator 1
+     - Indicator 2
+     - Indicator 3
 6. Parents Resources
+   - List of resources
 7. Contact us
+   - Name
+   - E-mail address
+   - Message
+   - Submit Button
 
 ## Step 3: Describe each section further
 
