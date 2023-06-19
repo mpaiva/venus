@@ -41,9 +41,9 @@ From a preliminary overview, some patterns and high-level findings emerge:
 <blockquote class="accent">Some disabilities, like Deaf-blindness, appear less frequently, indicating these conditions might be less common or underreported.</blockquote>
 <blockquote class="accent">Certain disabilities, such as Specific Learning Disabilities and Speech or Language Impairments, are notably high in states like California and New York.</blockquote>
 
-### Conveying the Story Effectively
+Now that we have a narrative, the next step is figuring out the best way to communicate it. The key here is NOT to start deciding which data visualization type to use. Instead, imagine how a screen reader user would experience the story.
 
-Now that we have a narrative, the next step is figuring out the best way to communicate it. The key here is NOT to start deciding which data visualization type to use. Instead, imagine how a screen reader user would experience the story. Start by designing with words and then consider adding features like a bar graph, ensuring all features meet the accessibility requirements for data visualizations.
+## Step 1: Your primary user persona has a disability
 
 When a screen reader user lands on a web page reporting the aforementioned data, the layout must meet a few crucial goals:
 
@@ -52,17 +52,24 @@ When a screen reader user lands on a web page reporting the aforementioned data,
 - Ensure proper heading names and a well-structured hierarchy that support assistive technologies like screen readers.
 - Prioritize content representation over visual display.
 
-## Reiterating: Design with Words!
+## Step 2: Design with Words!
 
-Don't rush into visualizing the data. Begin by narrating what the data signifies—design with words!
+Don't rush into visualizing the data. Start by designing with words and at a later stage consider adding features like a bar graph, ensuring all features meet the accessibility requirements for data visualizations.
 
-Our high-level findings from the OSEP dataset can be summarized as follows:
+Creating priority guides is fun and quick. Here is our proposed hierarchy:
+
+1. Header and navigation
+2. Report name
+3. About the report
+4. Summary
+5. Key indicators
+6. Parents Resources
+7. Contact us
+
+Our high-level findings from the <dfn><abbr title="Office of Special Education Programs">OSEP</abbr></dfn> dataset can be summarized as follows:
 
 - There were 471,377 cases of children with disabilities in all states during 2021-2022.
-- Developmental Delay was the most common disability type, with
-
-216,727 reported cases.
-
+- Developmental Delay was the most common disability type, with 216,727 reported cases.
 - Autism is significantly prevalent, with California reporting over 13,000 cases.
 - Conditions like Deaf-blindness are less frequently reported.
 - Specific Learning Disabilities and Speech or Language Impairments are notably high in some states like California and New York.
@@ -74,16 +81,6 @@ This summary allows any user to gather sufficient information without needing to
 Most UX professionals struggle to incorporate accessibility considerations into their design process, leading to subpar experiences for users with disabilities. Over my 12 years of experience creating enterprise-level platforms, I've noticed that content and accessibility are often afterthoughts.
 
 For the Child Count report, we adopted a content-first approach, built an accessible prototype, and created priority guides to understand user needs and desired outcomes.
-
-Here is our proposed hierarchy:
-
-- Header and navigation with window title and description.
-- Report name and description
-- About
-- Quick Summary
-- Key indicators
-- Resources for parents
-- Contact us
 
 We used a web tool to create priority guides and export an accessible prototype, considering the following accessibility features:
 
