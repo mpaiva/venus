@@ -9,7 +9,7 @@ featured_image_description: A photo of a line chart emphasizing the visual repre
 accent_color: "#f60"
 ---
 
-# Reimagining Data Insights for an Inclusive Future
+## Reimagining Data Insights for an Inclusive Future
 
 Data is the lifeblood of our digital age, driving decision-making across various industries and disciplines. But here's something to consider: what if you're blind? The way we typically present data - through infographics, maps, charts, and other visual formats - inherently favors those with good sight and above-average literacy levels.
 
@@ -31,7 +31,7 @@ In a previous post, titled [Communicating Accessibility Through Inclusive Design
 
 Instead of beginning by focusing on which chart type to use for a dataset, try narrating what the data might mean to the user. Describe it without depending on visual cues. For instance, consider the following data record published by the United States Office of Special Education Programs (OSEP):
 
-#### Data Table: "Number of children in early childhood programs served under Individuals with Disability Education Act (IDEA), Part B, by disability and state: 2021-22."
+Data Table: **"Number of children in early childhood programs served under Individuals with Disability Education Act (IDEA), Part B, by disability and state: 2021-22."**
 
 This dataset offers a detailed child count of varying disabilities, ages 3 through 5 served under IDEA across all US states and territories.
 
