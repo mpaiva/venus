@@ -222,7 +222,7 @@ We can share the prototype with our usability study participants, including peop
 
 [Accessible prototype](https://nolatin.com/share/child-count-001)
 
-## Final Testing Stage before designing the interface layout
+## Final step: Testing with users before designing the interface layout
 
 Before recruiting participants for a usability study, we always test the page with screen readers. We pay close attention to how the page navigation works and how the screen reader pronounces the content.
 
