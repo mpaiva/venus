@@ -1,6 +1,6 @@
 ---
 date: 2023-04-30 00:00:01
-title: "UX Tips: Designing for Neurodivergent Users"
+title: "UX Tips: Designing with Neurodivergent Users in Mind"
 description: "_posts/_wip/2019-06-30-demo-post.md"
 author: Marcelo Paiva
 featured_image: /images/posts/austin-distel-WtXcbWXK_ww-unsplash.jpg
