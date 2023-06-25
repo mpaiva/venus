@@ -16,7 +16,17 @@ Just like how everyone sees and appreciates art in their own way, the way we int
 
 Isn't it amazing how our brain adapts to different situations? Take a moment and watch this video of Ryan Woodard, a young man on the Autism spectrum, singing a song by John Mayer.
 
-{% include youtube.html id="tMktEBdTZIA" %}
+<div class="embed-container">
+  <iframe
+    title="youtube video"
+    src="https://www.youtube.com/embed/tMktEBdTZIA"
+    width="700"
+    height="480"
+    frameborder="0"
+    allowfullscreen="true"
+  >
+  </iframe>
+</div>
 
 Ryan couldn't communicate verbally until he was 10. Music helped his brain find a way to adapt to his mental environment and ultimately, learn how to speak.
 
