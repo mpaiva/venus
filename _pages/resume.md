@@ -59,7 +59,7 @@ Below is a list of most significant conferences where I am honored to present:
 - **NTEN - The Nonprofit Technology Conference – March 12-16, 2024 – Portland, OR** 
  How to Involve People with Disabilities in the Design Process
 
-- **39th Annual CSUN Assistive Technology Conference – March 18-22, 2024 – Portland, OR** 
+- **39th Annual CSUN Assistive Technology Conference – March 18-22, 2024 – Anaheim, CA** 
   - Explore the Power of Accessible Open-Source Reporting Tool
   - Design Tokens for Equitable Data Representation
 
