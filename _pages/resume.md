@@ -44,11 +44,10 @@ As a passionate designer, I specialize in creating accessible products for large
 
 - Leading the development of accessible design systems and tools, focusing on inclusivity for users with disabilities during user research.
 - Spearhead the creation and use of a web tools and components for building fully accessible prototypes, demonstrating my dedication to accessible design.
-- As part of my role at AEM, I advocate for early integration of accessibility in user experience design, sharing my expertise at various international conferences.
+- Member of the W3C ARIA Working Group
 
 ### Conferences
-
-Below is a list of most significant conferences where I am honored to present:
+As part of my role at AEM, I advocate for early integration of accessibility in user experience design, sharing my expertise at various international conferences. Below is a list of most significant conferences where I am honored to present:
 
 #### Upcoming:
 
