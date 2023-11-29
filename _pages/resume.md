@@ -84,7 +84,8 @@ Below is a list of most significant conferences where I am honored to present:
 - **37th Annual CSUN Assistive Technology Conference – Anaheim, CA**  
    - [Rapid Prototyping with Accessibility in Mind (Explorations)](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2412)
 
-   - [Focus First: An Approach for Better Access and Usability](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2395)
+- **ICT Accessibility Testing Symposium Conference – 2020 Best Presentation Award**  
+   - [Focus first: a new front-end approach](https://www.ictaccessibilitytesting.org/past-events/)
 
 
 ### Senior UX Manager
