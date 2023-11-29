@@ -46,10 +46,10 @@ As a passionate designer, I specialize in creating accessible products for large
 - Spearhead the creation and use of a web tools and components for building fully accessible prototypes, demonstrating my dedication to accessible design.
 - Member of the W3C ARIA Working Group
 
-### Conferences
+#### Conferences
 As part of my role at AEM, I advocate for early integration of accessibility in user experience design, sharing my expertise at various international conferences. Below is a list of most significant conferences where I am honored to present:
 
-#### Upcoming:
+##### Upcoming:
 
 - **ATIA - Assistive Technology Industry Association – January 25-27, 2024 – Orlando, FL**
   - [Design Tokens for Equitable Data Representation](https://www.atia.org/24conference/)
@@ -62,7 +62,7 @@ As part of my role at AEM, I advocate for early integration of accessibility in 
   - Explore the Power of Accessible Open-Source Reporting Tool
   - Design Tokens for Equitable Data Representation
 
-#### Past Conferences:
+##### Past Conferences:
 
 - **Accessing Higher Ground – Denver, CO**  
   - [How to Create Experiences that Inspire](https://accessinghigherground.org/how-to-create-accessible-experiences-that-inspire/)
