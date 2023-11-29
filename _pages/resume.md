@@ -40,7 +40,7 @@ As a passionate designer, I specialize in creating accessible products for large
 
 ### Accessibility and User Experience Lead
 
-**AEM Corporation**
+**AEM Corporation (April 2023 - Present)**
 
 - Leading the development of accessible design systems and tools, focusing on inclusivity for users with disabilities during user research.
 - Spearhead the creation and use of a web tools and components for building fully accessible prototypes, demonstrating my dedication to accessible design.
