@@ -37,9 +37,6 @@
       color: $accent-color;
     }
 
-    .header--main .header__title a {
-      text-decoration: none;
-    }
   }
 
   .header__menu {
@@ -88,6 +85,10 @@
       display: block;
     }
   }
+}
+
+.header--main a {
+  text-decoration: none;
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu
