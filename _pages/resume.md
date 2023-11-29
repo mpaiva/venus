@@ -42,7 +42,7 @@ As a passionate designer, I specialize in creating accessible products for large
 
 **AEM Corporation**
 
-- Lead the development of accessible design systems and tools, focusing on inclusivity for users with disabilities during user research.
+- Leading the development of accessible design systems and tools, focusing on inclusivity for users with disabilities during user research.
 - Spearhead the creation and use of a web tools and components for building fully accessible prototypes, demonstrating my dedication to accessible design.
 - As part of my role at AEM, I advocate for early integration of accessibility in user experience design, sharing my expertise at various international conferences.
 
@@ -53,45 +53,38 @@ Below is a list of most significant conferences where I am honored to present:
 #### Upcoming:
 
 - **ATIA - Assistive Technology Industry Association – January 25-27, 2024 – Orlando, FL**
-_"Design Tokens for Equitable Data Representation"_
-_"Design inclusive digital experiences, involve people with disabilities."_
+  - Design Tokens for Equitable Data Representation
+  - Design inclusive digital experiences, involve people with disabilities.
 
 - **NTEN - The Nonprofit Technology Conference – March 12-16, 2024 – Portland, OR** 
- _"How to Involve People with Disabilities in the Design Process"_
+ How to Involve People with Disabilities in the Design Process
 
 - **39th Annual CSUN Assistive Technology Conference – March 18-22, 2024 – Portland, OR** 
- _"Explore the Power of Accessible Open-Source Reporting Tool"_
- _"Design Tokens for Equitable Data Representation"_
+  - Explore the Power of Accessible Open-Source Reporting Tool
+  - Design Tokens for Equitable Data Representation
 
 #### Past Conferences:
 
 - **Accessing Higher Ground – Denver, CO**  
-  _"How to Create Experiences that Inspire"_  
-  [Session Details](https://accessinghigherground.org/how-to-create-accessible-experiences-that-inspire/)
+  - [How to Create Experiences that Inspire](https://accessinghigherground.org/how-to-create-accessible-experiences-that-inspire/)
 
 - **NCSHA National Council of State Housing Agencies Conference - October 14-17, 2023 – Boston, MA**
-  _"Accessibility in Communications - Panel Discussion on best practices on designing accessible websites and products."_
+   - Accessibility in Communications - Panel Discussion on best practices on designing accessible websites and products.
 
 - **Closing the Gap – October 10-13 – Minneapolis, MN**  
-  _"Designing Accessible Data Tools for Inclusive Education: A Human-Centered Approach to IDEA Data Reporting"_  
-  [Session Details](https://www.closingthegap.com/conf-23-presentation/designing-accessible-data-tools-for-inclusive-education-a-human-centered-approach-to-idea-data-reporting/)  
-  _"Open Forum: Open-Source Accessible Reporting Tool Prototype"_  
-  [Session Details](https://www.closingthegap.com/conf-23-presentation/open-forum-open-source-accessible-reporting-tool-prototype/)
+   - [Designing Accessible Data Tools for Inclusive Education: A Human-Centered Approach to IDEA Data Reporting](https://www.closingthegap.com/conf-23-presentation/designing-accessible-data-tools-for-inclusive-education-a-human-centered-approach-to-idea-data-reporting/)  
+   - [Open Forum: Open-Source Accessible Reporting Tool Prototype](https://www.closingthegap.com/conf-23-presentation/open-forum-open-source-accessible-reporting-tool-prototype/)
 
-- **W3C TPAC 2023 – September 11-15, 2023 – Seville, Spain**  
-  _"Design Tokens for Accessibility Settings: Empowering Inclusive Design with CSS"_  
-  [Session Details](https://github.com/w3c/tpac2023-breakouts/issues/10)
+- **W3C TPAC 2023 – September 11-15, 2023 – Seville, Spain**
+   - [Design Tokens for Accessibility Settings: Empowering Inclusive Design with CSS](https://github.com/w3c/tpac2023-breakouts/issues/10)
 
 - **38th Annual CSUN Assistive Technology Conference – Anaheim, CA**  
-  _"Rapid Prototyping with Accessibility in Mind (Tools and Methodologies)"_  
-  [Session Details](https://www.csun.edu/cod/conference/sessions/2023/index.php/public/presentations/view/1467)
+   - [Rapid Prototyping with Accessibility in Mind (Tools and Methodologies)](https://www.csun.edu/cod/conference/sessions/2023/index.php/public/presentations/view/1467)
 
 - **37th Annual CSUN Assistive Technology Conference – Anaheim, CA**  
-  _"Rapid Prototyping with Accessibility in Mind (Explorations)"_  
-  [Session Details](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2412)
+   - [Rapid Prototyping with Accessibility in Mind (Explorations)](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2412)
 
-  _"Focus First: An Approach for Better Access and Usability"_
-  [Session Details](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2395)
+   - [Focus First: An Approach for Better Access and Usability](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2395)
 
 
 ### Senior UX Manager
