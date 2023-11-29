@@ -53,11 +53,11 @@ Below is a list of most significant conferences where I am honored to present:
 #### Upcoming:
 
 - **ATIA - Assistive Technology Industry Association – January 25-27, 2024 – Orlando, FL**
-  - Design Tokens for Equitable Data Representation
-  - Design inclusive digital experiences, involve people with disabilities.
+  - [Design Tokens for Equitable Data Representation](https://www.atia.org/24conference/)
+  - [Design inclusive digital experiences, involve people with disabilities](https://www.atia.org/24conference/)
 
 - **NTEN - The Nonprofit Technology Conference – March 12-16, 2024 – Portland, OR** 
- How to Involve People with Disabilities in the Design Process
+  - [How to Involve People with Disabilities in the Design Process](https://www.nten.org/) 
 
 - **39th Annual CSUN Assistive Technology Conference – March 18-22, 2024 – Anaheim, CA** 
   - Explore the Power of Accessible Open-Source Reporting Tool
