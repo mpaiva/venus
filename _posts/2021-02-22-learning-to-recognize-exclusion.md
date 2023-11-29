@@ -5,7 +5,7 @@ description: description
 date: 2021-02-22
 author: Marcelo Paiva, Lesley-Ann Noel, PhD.
 featured_image: /images/posts/austin-distel-WtXcbWXK_ww-unsplash.jpg
-featured_image_description: describe it you lazy ass
+featured_image_description: To build a mindset of inclusivity, we have to learn to see exclusion and then build anti-exclusive practices and mental models.
 accent_color: "#f60"
 ---
 

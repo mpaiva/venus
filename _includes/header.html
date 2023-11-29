@@ -30,6 +30,7 @@
       <button
         aria-expanded="true"
         aria-controls="main-menu"
+        aria-label="menu"
         style="display: block; height: 40px"
       >
         <div class="menu__toggle__icon">
@@ -38,7 +39,7 @@
       </button>
     </div>
 
-    <nav class="header__menu">
+    <nav id="main-menu" class="header__menu">
       <div class="menu__wrap">
         <ul class="menu__list">
           {% for item in site.data.settings.menu_settings.menu_items %}

@@ -12,9 +12,9 @@ url="/images/about/workshop.png" description="A heartwarming illustration showca
 
 Download a version of this page on the format that most suits your needs or assistive technology.
 
-<a href="/downloads/marcelo_paiva_resume.pdf" class="button--fill">PDF</a>
-<a href="/downloads/marcelo_paiva_resume.docx" class="button--fill">DOC</a>
-<a href="/downloads/marcelo_paiva_resume.rtf" class="button--fill">TXT</a>
+<a href="https://www.dropbox.com/s/8tek6avpotzy9ve/marcelo_paiva_resume.pdf?dl=0" target="_blank" class="button--fill">PDF</a>
+<a href="https://www.dropbox.com/s/a1dg42w7em0y2lr/marcelo_paiva_resume.docx?dl=0" target="_blank" class="button--fill">DOC</a>
+<a href="https://www.dropbox.com/s/ljtm4i39qmxqkou/marcelo_paiva_resume.txt?dl=0" target="_blank" class="button--fill">TXT</a>
 
 ---
 
@@ -37,6 +37,55 @@ As a passionate designer, I specialize in creating accessible products for large
 - Proficient in Design Thinking methodologies in agile environments.
 
 ## Professional Highlights
+
+### Accessibility and User Experience Lead
+
+**AEM Corporation (April 2023 - Present)**
+
+- Leading the development of accessible design systems and tools, focusing on inclusivity for users with disabilities during user research.
+- Spearhead the creation and use of a web tools and components for building fully accessible prototypes, demonstrating my dedication to accessible design.
+- Member of the W3C ARIA Working Group
+
+#### Conferences
+As part of my role at AEM, I advocate for early integration of accessibility in user experience design, sharing my expertise at various international conferences. Below is a list of most significant conferences where I am honored to present:
+
+##### Upcoming:
+
+- **ATIA - Assistive Technology Industry Association – January 25-27, 2024 – Orlando, FL**
+  - [Design Tokens for Equitable Data Representation](https://www.atia.org/24conference/)
+  - [Design inclusive digital experiences, involve people with disabilities](https://www.atia.org/24conference/)
+
+- **NTEN - The Nonprofit Technology Conference – March 12-16, 2024 – Portland, OR** 
+  - [How to Involve People with Disabilities in the Design Process](https://www.nten.org/) 
+
+- **39th Annual CSUN Assistive Technology Conference – March 18-22, 2024 – Anaheim, CA** 
+  - Explore the Power of Accessible Open-Source Reporting Tool
+  - Design Tokens for Equitable Data Representation
+
+##### Past Conferences:
+
+- **Accessing Higher Ground – Denver, CO**  
+  - [How to Create Experiences that Inspire](https://accessinghigherground.org/how-to-create-accessible-experiences-that-inspire/)
+
+- **NCSHA National Council of State Housing Agencies Conference - October 14-17, 2023 – Boston, MA**
+   - Accessibility in Communications - Panel Discussion on best practices on designing accessible websites and products.
+
+- **Closing the Gap – October 10-13 – Minneapolis, MN**  
+   - [Designing Accessible Data Tools for Inclusive Education: A Human-Centered Approach to IDEA Data Reporting](https://www.closingthegap.com/conf-23-presentation/designing-accessible-data-tools-for-inclusive-education-a-human-centered-approach-to-idea-data-reporting/)  
+   - [Open Forum: Open-Source Accessible Reporting Tool Prototype](https://www.closingthegap.com/conf-23-presentation/open-forum-open-source-accessible-reporting-tool-prototype/)
+
+- **W3C TPAC 2023 – September 11-15, 2023 – Seville, Spain**
+   - [Design Tokens for Accessibility Settings: Empowering Inclusive Design with CSS](https://github.com/w3c/tpac2023-breakouts/issues/10)
+
+- **38th Annual CSUN Assistive Technology Conference – Anaheim, CA**  
+   - [Rapid Prototyping with Accessibility in Mind (Tools and Methodologies)](https://www.csun.edu/cod/conference/sessions/2023/index.php/public/presentations/view/1467)
+
+- **37th Annual CSUN Assistive Technology Conference – Anaheim, CA**  
+   - [Rapid Prototyping with Accessibility in Mind (Explorations)](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2412)
+
+- **ICT Accessibility Testing Symposium Conference – 2020 Best Presentation Award**  
+   - [Focus first: a new front-end approach](https://www.ictaccessibilitytesting.org/past-events/)
+
 
 ### Senior UX Manager
 
@@ -121,8 +170,8 @@ Send me a message via a form inquiry, I will respond as soon as possible.
 
 Download the format that most suits your needs or assistive technology.
 
-<a href="/downloads/marcelo_paiva_resume.pdf" class="button--fill">PDF</a>
-<a href="/downloads/marcelo_paiva_resume.docx" class="button--fill">DOC</a>
-<a href="/downloads/marcelo_paiva_resume.rtf" class="button--fill">TXT</a>
+<a href="https://www.dropbox.com/s/8tek6avpotzy9ve/marcelo_paiva_resume.pdf?dl=0" target="_blank" class="button--fill">PDF</a>
+<a href="https://www.dropbox.com/s/a1dg42w7em0y2lr/marcelo_paiva_resume.docx?dl=0" target="_blank" class="button--fill">DOC</a>
+<a href="https://www.dropbox.com/s/ljtm4i39qmxqkou/marcelo_paiva_resume.txt?dl=0" target="_blank" class="button--fill">TXT</a>
 
 ---

@@ -1,10 +1,10 @@
 ---
-date: 2023-10-15 00:00:01
-title: "Design Sprints: Inviting People with Disabilities to Participate for Better Accessibility Outcomes"
-description: Enhance your design process by incorporating the invaluable perspectives of people with disabilities.
+date: 2023-11-15 00:00:01
+title: "Data Visualizations and Unconscious Bias"
+description: This post delves into the unconscious bias present in traditional data visualization practices, which often exclude non-sighted and cognitively diverse users. It argues for a shift towards 'data representation,' emphasizing inclusive design strategies that cater to a broader audience.
 author: Marcelo Paiva
-featured_image: /images/posts/austin-distel-WtXcbWXK_ww-unsplash.jpg
-featured_image_description: describe it you lazy ass
+featured_image: /images/posts/isaac-smith-AT77Q0Njnt0-unsplash.jpg
+featured_image_description: The image shows a desk with some items laid out. There's an open dotted notebook featuring a humorous line graph. The graph's x-axis is labeled "THE PAST" and "THE FUTURE," while the y-axis ranges from "SUCKING" to "NOT SUCKING." The line starts in the past, indicating a fluctuating performance, and shoots up towards "NOT SUCKING" in the future. Beside the graph, there are two pens, with one appearing to be a fountain pen and the other more like a ballpoint or rollerball. Additionally, there is a metal ruler placed near the top-right of the notebook. In the background, there are some stacked books to the left and a few blank sheets of paper as well. The overall mood suggests planning, goal-setting, work, or study in a casual or creative environment. Photo credits to Isaac Smith on Unsplash.
 accent_color: "#f60"
 ---
 
@@ -14,7 +14,9 @@ Subtitle: Enhance your design process by incorporating the invaluable perspectiv
 
 [Image Placeholder: A group of designers, engineers, and people with disabilities participating in a design sprint. Alternative text: A diverse team, including people with disabilities, actively engaged in a design sprint.]
 
-Introduction
+## Introduction
+Photo by <a href="https://unsplash.com/@isaacmsmith?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Isaac Smith</a> on <a href="https://unsplash.com/photos/pen-on-paper-6EnTPvPPL6I?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
+  
 
 Design sprints are an increasingly popular approach to quickly explore, prototype, and test solutions for various challenges. When it comes to creating accessible products and services, involving people with disabilities in design sprints can help bridge the communication gap between designers, engineers, and users. In this section, we will delve into how people with disabilities can be invited to participate in design sprints and how their involvement can lead to better understanding and implementation of accessibility needs.
 

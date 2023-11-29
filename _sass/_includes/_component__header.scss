@@ -36,6 +36,7 @@
     &:hover {
       color: $accent-color;
     }
+
   }
 
   .header__menu {
@@ -84,6 +85,10 @@
       display: block;
     }
   }
+}
+
+.header--main a {
+  text-decoration: none;
 }
 
 // - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - Menu

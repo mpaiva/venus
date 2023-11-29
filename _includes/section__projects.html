@@ -29,14 +29,14 @@
         <a href="{{ project.url | relative_url }}">
           <img
             src="{{ '/images/projects/' | relative_url}}{{ image }}"
-            alt=""
+            alt="{% if project.brief %}Image {{forloop.index}} of {{forloop.length}} {% endif %}"
             class="project__image"
           />
         </a>
         {% else %}
         <img
           src="{{ '/images/projects/' | relative_url}}{{ image }}"
-          alt=""
+          alt="{% if project.brief %}Image {{forloop.index}} of {{forloop.length}} {% endif %}"
           class="project__image"
         />
         {% endif %} {% endfor %}
