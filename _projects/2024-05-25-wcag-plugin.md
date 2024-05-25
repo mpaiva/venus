@@ -38,7 +38,7 @@ The WCAG Plugin for Figma is born out of a commitment to make digital design mor
 
 url="/images/projects/wcag-plugin-09.png"
 
-description="Screenshot of the WCAG Plugin for Figma showing the interface for searching and dropping WCAG guideline cards into design files. The left panel displays a search bar with results for 2.4.7 - Focus Visible (AA) and an option to drop the card into the design. The right panel shows the detailed WCAG card for 2.4.7 - Focus Visible, including a description and reference links. The plugin helps accessibility specialists easily share guidelines with team members, promoting accessible design practices. Text highlights the plugin's goal to make it simple to educate team members about WCAG."
+description="Screenshot of the WCAG Plugin for Figma showing the interface for searching and dropping WCAG guideline cards into design files. The left panel displays a search bar with results for 2.4.7 - Focus Visible (AA) and an option to drop the card into the design. The right panel shows the dropped card in a Figma file helping to educate team members about WCAG."
 
 %}
 
