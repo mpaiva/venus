@@ -30,19 +30,15 @@ gallery_images:
 
 ## About this project
 
-As UX professionals, we should be committed to designing solutions as ambassadors for all users, including people with disabilities.
-
-"No Latin" ([nolatin.com](https://nolatin.com){:target="\_blank"}) is a free web-based React app that converts blocks of content into an accessible web prototype using Accessibility best-practices.
-
-This tool invites all designers and researchers to bringing intent into their design process by elevating the content quality early for people with disabilities.
+The WCAG Plugin for Figma is born out of a commitment to make digital design more inclusive and accessible to everyone. Our mission is to provide designers and developers with the tools they need to integrate accessibility considerations into their workflows seamlessly.
 
 > <h2>Industry Challenge:</h2> Most UX professionals struggle to incorporate accessibility considerations into their design process, resulting in poor experiences for users with disabilities.
 
 {% include image.html
 
-url="/images/projects/nolatin-04.png"
+url="/images/projects/wcag-plugin-09.png"
 
-description="An illustration of a multicultural group of children, including a boy in a wheelchair, smiling for a photo celebrating those who design with Accessibility in mind."
+description="Screenshot of the WCAG Plugin for Figma showing the interface for searching and dropping WCAG guideline cards into design files. The left panel displays a search bar with results for "2.4.7 - Focus Visible (AA)" and an option to drop the card into the design. The right panel shows the detailed WCAG card for "2.4.7 - Focus Visible," including a description and reference links. The plugin helps accessibility specialists easily share guidelines with team members, promoting accessible design practices. Text highlights the plugin's goal to make it simple to educate team members about WCAG."
 
 %}
 
