@@ -48,138 +48,28 @@ When the needs of users with disabilities are overlooked, a significant portion 
 
 By providing tools such as Guideline Search, Notation Cards, and Utility Tokens, the plugin empowers accessibility specialists to easily access and apply WCAG guidelines directly in the Figma design files and have an educational interaction with designers and developers. This ensures that accessibility is a fundamental part of the design workflow rather than an afterthought.
 
-> <h2> Solution </h2> Create good content from the beginning using Priority Guides with headlines and elements blocks, sorted by user needs.
+> <h2> Solution </h2> By providing tools such as Guideline Search, Notation Cards, and Utility Tokens, the plugin empowers accessibility specialists to easily access and apply WCAG guidelines directly in the Figma design files.
 
-### Putting intent on writing with priority guides
+### Integrated Learning: Enhancing Understanding and Application of Accessibility Guidelines
 
-A good way to start focusing on content designing before the interface designing stage is using a content-first method called **priority guides**.
+The WCAG Plugin for Figma goes beyond merely providing access to WCAG guidelines; it also serves as an educational tool that fosters a deeper understanding of accessibility principles among designers and developers. Here’s how the integrated learning feature enhances the effectiveness of the plugin:
 
-Simply put, a priority guide contains content and elements for a mobile screen, sorted by hierarchy from top to bottom and without layout specifications.
+#### Comprehensive References and Contextual Understanding: 
 
-This approach enables UX professionals to focus on the user's priorities and needs, before jumping on interface designing.
+Each WCAG guideline card links to detailed references from the WCAG documentation, explaining the guidelines' purpose and requirements. This helps designers understand the context and importance of each guideline, making it easier to appreciate the impact on users with disabilities.
+#### Practical Application and Continuous Learning: 
 
-## Creating Priority Guides
+The plugin provides practical advice and examples for implementing guidelines effectively. Designers continuously build their knowledge and skills by using the WCAG cards and exploring the references, staying updated with best practices.
 
-I created a [Figma Template](https://www.figma.com/community/file/1193216658324575083) to help designers craft their content faster.
+#### Accessibility Advocacy and Enhanced Collaboration: 
 
-{% include image.html
-
-url="/images/projects/nolatin-figma-cover.png"
-
-description="Figma template for creating priority guides by Marcelo Paiva"
-
-%}
-
-{% include image.html
-
-url="/images/projects/nolatin-figma-05.png"
-
-description="The template suggests designers to work their way through the problem definition, by creating a story and journey mapping as preparation for building the priority guides."
-
-%}
-
-{% include image.html
-
-url="/images/projects/nolatin-figma-06.png"
-
-description="Priority guides are simple and easy to build, it's like designing with words, but focusing on the user's expected inputs and outcomes."
-
-%}
-
-## From Intent Framing to Prototyping
-
-By now, all the content needed is in place to begin building the **intent framing** (a collection of guides), which will be converted into a fully interactive and accessible HTML prototype.
-
-The following is a step-by-step example on how we create and preview the accessible prototype for a Job Search page.
-
-### 1) Create a page
-
-Adding a page to host priority guides. Let's create a Job Search page:
-
-{% include image.html
-
-url="/images/projects/nolatin-figma-07.png"
-
-description="Step-by-step example on how to create a page in nolatin.com showcasing the importance of always adding a title and description to a page."
-
-%}
-
-### 2) Add a section
-
-Create a section that will serve as a page landmark and contain the user input elements:
-
-{% include image.html
-
-url="/images/projects/nolatin-figma-08.png"
-
-description="Keyboard-only users need different ways to navigate web pages. Adding properly named and described sections enable keyboard-only users to jump direct to a portion of the page."
-
-%}
-
-### 3) Adding an input
-
-Let's add an input inside the search section
-
-{% include image.html
-
-url="/images/projects/nolatin-figma-09.png"
-
-description="In the illustration above, the label describes the function of the input form control, and generally appears adjacent to it. Sighted users make the connection visually, but others cannot. Adding a well-described label will ensure screen readers announce the text label when the user navigates to the input."
-
-%}
-
-### 4) Adding an action button
-
-Following the text input, the user will need an action button to submit the search string.
-
-{% include image.html
-
-url="/images/projects/nolatin-figma-10.png"
-
-description="One last step for the search pattern is to add an action button to submit the search and direct the user to the 'Search Results' page."
-
-%}
-
-### 5) Preview Accessible Prototype
-
-Scroll to the top of the page and hit preview. A new tab window opens up with the elements just built.
-
-{% include image.html
-
-url="/images/projects/nolatin-figma-11.png"
-
-description="On the top od the Prototype Page, the 'Preview' button will create the Accessible Prototype with all the web accessibility best practices built in."
-
-%}
-**No Latin will generate a web prototype with all the Accessibility best-practices built-in:**
-
-- Detailed skip-links
-- Purposeful landmarks
-- Semantic headings
-- Good ARIA attributes
-- Image alternative text
-- Visual focus appearance
-
-I believe this method will enable UX professionals to be proactive about including people with disabilities early in the design process - this approach is known as **"shift-left."**
-
-## Including people with disabilities in usability studies
-
-{% include image.html
-
-url="/images/projects/nolatin-05.png"
-
-description="An illustration of a multicultural group of children, including a boy in a wheelchair, working through soving a problem together."
-
-%}
-
-I also created a user testing guidelines on how to provide proper accomodations for assistive technology users during usability studies.
-
-As UX professionals, you are committed to designing solutions as ambassadors for all users, including people with disabilities.
-
-This tool invites all designers and researchers to bringing intent into their design process by elevating the content quality early for people with disabilities.
+The plugin helps designers advocate for accessibility by providing easy access to detailed information, simplifying explanations to stakeholders. It also improves team communication and collaboration, ensuring a unified approach to creating accessible digital products.
 
 ## Conclusion
 
-No Latin is a humble initiative to help UX professionals like me improving the user experience of people with disabilities.
 
-I aim to motivate other UX professionals to **write quality content early** so they can produce accessible prototypes for usability studies that include all types of users.
+In conclusion, the WCAG Plugin for Figma is a humble yet powerful tool designed to help UX professionals like me improve the user experience for people with disabilities. By seamlessly integrating accessibility guidelines into the design process, this plugin ensures that accessibility becomes a natural part of our workflow.
+
+Additionally, I have submitted a proposal to W3C to consider including a content API for the next WCAG 3. This would allow creative people like myself to use a single source of truth and create content and applications based on the WCAG content. You can [view the proposal to WCAG 3](https://github.com/w3c/wcag3/issues/84#issuecomment-2122681272) and comment on it.
+
+Let's work together to create more inclusive, equitable digital experiences for everyone.
