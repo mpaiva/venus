@@ -49,20 +49,25 @@ As a passionate designer, I specialize in creating accessible products for large
 #### Conferences
 As part of my role at AEM, I advocate for early integration of accessibility in user experience design, sharing my expertise at various international conferences. Below is a list of most significant conferences where I am honored to present:
 
-##### Upcoming:
+<!-- ##### Upcoming: -->
 
-- **ATIA - Assistive Technology Industry Association – January 25-27, 2024 – Orlando, FL**
-  - [Design Tokens for Equitable Data Representation](https://www.atia.org/24conference/)
-  - [Design inclusive digital experiences, involve people with disabilities](https://www.atia.org/24conference/)
 
-- **NTEN - The Nonprofit Technology Conference – March 12-16, 2024 – Portland, OR** 
-  - [How to Involve People with Disabilities in the Design Process](https://www.nten.org/) 
+##### Past Conferences:
+
+- **Into Design Systems – May 15-17, 2024 – [Virtual](https://www.intodesignsystems.com/agenda) ** 
+  - Design Tokens Sets for Accessibility Needs 
 
 - **39th Annual CSUN Assistive Technology Conference – March 18-22, 2024 – Anaheim, CA** 
   - Explore the Power of Accessible Open-Source Reporting Tool
   - Design Tokens for Equitable Data Representation
 
-##### Past Conferences:
+
+- **NTEN - The Nonprofit Technology Conference – March 12-16, 2024 – Portland, OR** 
+  - [How to Involve People with Disabilities in the Design Process](https://www.nten.org/) 
+
+- **ATIA - Assistive Technology Industry Association – January 25-27, 2024 – Orlando, FL**
+  - [Design Tokens for Equitable Data Representation](https://www.atia.org/24conference/)
+  - [Design inclusive digital experiences, involve people with disabilities](https://www.atia.org/24conference/)
 
 - **Accessing Higher Ground – Denver, CO**  
   - [How to Create Experiences that Inspire](https://accessinghigherground.org/how-to-create-accessible-experiences-that-inspire/)
