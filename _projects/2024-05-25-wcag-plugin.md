@@ -15,7 +15,7 @@ description: "This plugin enhances the accessibility of digital designs by integ
 Free and open-source: This plugin is free and open-source, driven by a community of passionate contributors dedicated to making digital design more accessible for everyone."
 
 featured_image: nolatin-figma-01.png
-accent_color: "#14FF00"
+accent_color: "#FF33F7"
 case_study: true
 gallery_images:
   - wcag-plugin-01.png
