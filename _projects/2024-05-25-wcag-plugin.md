@@ -30,7 +30,7 @@ gallery_images:
 
 ## About this project
 
-The WCAG Plugin for Figma is born out of a commitment to make digital design more inclusive and accessible to everyone. Our mission is to provide designers and developers with the tools they need to integrate accessibility considerations into their workflows seamlessly.
+I created a very successful Figma plugin simply called the "WCAG Plugin." This effort was born out of my commitment to make digital design more inclusive and accessible to everyone. MY continuous mission is to provide designers and developers with the tools and methodologies they need to integrate accessibility considerations into their workflows seamlessly.
 
 > <h2>Industry Challenge:</h2> Most UX professionals struggle to incorporate accessibility considerations into their design process, resulting in poor experiences for users with disabilities.
 
