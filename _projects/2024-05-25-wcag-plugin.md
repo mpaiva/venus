@@ -1,10 +1,19 @@
 ---
 title: WCAG Plugin for Figma
-subtitle: "Improving the UX for people with disabilities by eliminating the use of Lorem Ipsum in the design industry."
+subtitle: "Enhance your design accessibility with integrated WCAG guidelines."
 
 date: 2024-05-25 00:00:02
-brief: I created a pioneering method to transform digital content blocks into fully accessible prototypes. Check it out at <a href="https://nolatin.com" target="_blank">nolatin.com</a>
-description: If designers continue to use 'Loren Ipsum' placeholders in early design concepts, people with disabilities will continue to be excluded from early user research studies.
+brief: Streamline your design process with tools to find, annotate, and implement accessibility guidelines directly within Figma. Check it out and run it on <a href="https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin" target="_blank">Figma Community</a>.
+description: "This plugin enhances the accessibility of digital designs by integrating accessibility guidelines directly into your design processes and systems. The WCAG Plugin offers three key features: 
+
+- 🔎 Guideline Search - Quickly find relevant guidelines as a conversation starter and to ensure your designs are providing an equitable experience for all users.
+
+- 🗂️ Notation Cards - Annotate Figma design files with WCAG guideline cards to increase your knowledge of accessibility requirements and best practices.
+
+- 🔧 Utility Tokens - Import accessibility utility tokens as Figma variables to ensure accessible design decisions across various design elements and components.
+
+Free and open-source: This plugin is free and open-source, driven by a community of passionate contributors dedicated to making digital design more accessible for everyone."
+
 featured_image: nolatin-figma-01.png
 accent_color: "#14FF00"
 case_study: true
