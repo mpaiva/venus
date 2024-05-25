@@ -54,38 +54,38 @@ I champion the early integration of accessibility in user experience design and 
 
 ##### Past Conferences:
 
-- **Into Design Systems – May 15-17, 2024 – [Virtual](https://www.intodesignsystems.com/agenda) ** 
+- **Into Design Systems** – May 15-17, 2024 – [Virtual](https://www.intodesignsystems.com/agenda)
   - Design Tokens Sets for Accessibility Needs 
 
-- **39th Annual CSUN Assistive Technology Conference – March 18-22, 2024 – Anaheim, CA** 
+- **39th Annual CSUN Assistive Technology Conference** – March 18-22, 2024 – Anaheim, CA 
   - Explore the Power of Accessible Open-Source Reporting Tool
   - Design Tokens for Equitable Data Representation
 
 
-- **NTEN - The Nonprofit Technology Conference – March 12-16, 2024 – Portland, OR** 
+- **NTEN - The Nonprofit Technology Conference** – March 12-16, 2024 – Portland, OR 
   - [How to Involve People with Disabilities in the Design Process](https://www.nten.org/) 
 
-- **ATIA - Assistive Technology Industry Association – January 25-27, 2024 – Orlando, FL**
+- **ATIA - Assistive Technology Industry Association** – January 25-27, 2024 – Orlando, FL
   - [Design Tokens for Equitable Data Representation](https://www.atia.org/24conference/)
   - [Design inclusive digital experiences, involve people with disabilities](https://www.atia.org/24conference/)
 
-- **Accessing Higher Ground – Denver, CO**  
+- **Accessing Higher Ground** – Denver, CO  
   - [How to Create Experiences that Inspire](https://accessinghigherground.org/how-to-create-accessible-experiences-that-inspire/)
 
-- **NCSHA National Council of State Housing Agencies Conference - October 14-17, 2023 – Boston, MA**
+- **NCSHA National Council of State Housing Agencies Conference** - October 14-17, 2023 – Boston, MA
    - Accessibility in Communications - Panel Discussion on best practices on designing accessible websites and products.
 
-- **Closing the Gap – October 10-13 – Minneapolis, MN**  
+- **Closing the Gap** – October 10-13 – Minneapolis, MN  
    - [Designing Accessible Data Tools for Inclusive Education: A Human-Centered Approach to IDEA Data Reporting](https://www.closingthegap.com/conf-23-presentation/designing-accessible-data-tools-for-inclusive-education-a-human-centered-approach-to-idea-data-reporting/)  
    - [Open Forum: Open-Source Accessible Reporting Tool Prototype](https://www.closingthegap.com/conf-23-presentation/open-forum-open-source-accessible-reporting-tool-prototype/)
 
-- **W3C TPAC 2023 – September 11-15, 2023 – Seville, Spain**
+- **W3C TPAC 2023** – September 11-15, 2023 – Seville, Spain
    - [Design Tokens for Accessibility Settings: Empowering Inclusive Design with CSS](https://github.com/w3c/tpac2023-breakouts/issues/10)
 
-- **38th Annual CSUN Assistive Technology Conference – Anaheim, CA**  
+- **38th Annual CSUN Assistive Technology Conference** – Anaheim, CA  
    - [Rapid Prototyping with Accessibility in Mind (Tools and Methodologies)](https://www.csun.edu/cod/conference/sessions/2023/index.php/public/presentations/view/1467)
 
-- **37th Annual CSUN Assistive Technology Conference – Anaheim, CA**  
+- **37th Annual CSUN Assistive Technology Conference** – Anaheim, CA  
    - [Rapid Prototyping with Accessibility in Mind (Explorations)](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2412)
 
 - **ICT Accessibility Testing Symposium Conference – 2020 Best Presentation Award**  
