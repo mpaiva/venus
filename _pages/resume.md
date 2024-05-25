@@ -55,7 +55,8 @@ I champion the early integration of accessibility in user experience design and 
 ##### Past Conferences:
 
 - **Into Design Systems** – May 15-17, 2024 – [Virtual](https://www.intodesignsystems.com/agenda)
-  - Design Tokens Sets for Accessibility Needs 
+  - Design Tokens Sets for Accessibility Needs
+  - Figma WCAG Plugin Demo [Download](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin) 
 
 - **39th Annual CSUN Assistive Technology Conference** – March 18-22, 2024 – Anaheim, CA 
   - Explore the Power of Accessible Open-Source Reporting Tool
