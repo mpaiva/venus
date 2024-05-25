@@ -42,9 +42,11 @@ description="Screenshot of the WCAG Plugin for Figma showing the interface for s
 
 %}
 
-### Poor content leads to poor Accessibility
+### Eliminating Unconscious Bias during the design process
 
-**Content** and **Accessibility** are considered an afterthought. If designers continue to use Loren Ipsum content placeholders in early design concepts, people with disabilities that rely on assistive technologies (i.e.: screen readers) will continue to be excluded from early user research studies.
+When the needs of users with disabilities are overlooked, a significant portion of the population is excluded, fostering ableist attitudes. The WCAG Plugin for Figma helps address and remove unconscious bias by integrating accessibility considerations directly into the design process. 
+
+By providing tools such as Guideline Search, Notation Cards, and Utility Tokens, the plugin empowers accessibility specialists to easily access and apply WCAG guidelines directly in the Figma design files and have an educational interaction with designers and developers. This ensures that accessibility is a fundamental part of the design workflow rather than an afterthought.
 
 > <h2> Solution </h2> Create good content from the beginning using Priority Guides with headlines and elements blocks, sorted by user needs.
 
