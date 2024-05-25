@@ -30,7 +30,7 @@ gallery_images:
 
 ## About this project
 
-I created a very successful Figma plugin simply called the "WCAG Plugin." This effort was born out of my commitment to make digital design more inclusive and accessible to everyone. MY continuous mission is to provide designers and developers with the tools and methodologies they need to integrate accessibility considerations into their workflows seamlessly.
+I created a very successful Figma plugin simply called the **[WCAG Plugin](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)**. This effort was born out of my commitment to make digital design more inclusive and accessible to everyone. MY continuous mission is to provide designers and developers with the tools and methodologies they need to integrate accessibility considerations into their workflows seamlessly.
 
 > <h2>Industry Challenge:</h2> Most UX professionals struggle to incorporate accessibility considerations into their design process, resulting in poor experiences for users with disabilities.
 
@@ -69,6 +69,8 @@ The plugin helps designers advocate for accessibility by providing easy access t
 
 
 In conclusion, the WCAG Plugin for Figma is a humble yet powerful tool designed to help UX professionals like me improve the user experience for people with disabilities. By seamlessly integrating accessibility guidelines into the design process, this plugin ensures that accessibility becomes a natural part of our workflow.
+
+[Download the plugin](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin) to help your team.
 
 Additionally, I have submitted a proposal to W3C to consider including a content API for the next WCAG 3. This would allow creative people like myself to use a single source of truth and create content and applications based on the WCAG content. You can [view the proposal to WCAG 3](https://github.com/w3c/wcag3/issues/84#issuecomment-2122681272) and comment on it.
 
