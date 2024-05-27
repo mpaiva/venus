@@ -4,18 +4,10 @@ subtitle: "Enhance your design accessibility with integrated WCAG guidelines."
 
 date: 2024-05-25 00:00:02
 brief: Streamline your design process with tools to find, annotate, and implement accessibility guidelines directly within Figma. Check it out and run it on <a href="https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin" target="_blank">Figma Community</a>.
-description: "This plugin enhances the accessibility of digital designs by integrating accessibility guidelines directly into your design processes and systems. The WCAG Plugin offers three key features: 
-
-- 🔎 Guideline Search - Quickly find relevant guidelines as a conversation starter and to ensure your designs are providing an equitable experience for all users.
-
-- 🗂️ Notation Cards - Annotate Figma design files with WCAG guideline cards to increase your knowledge of accessibility requirements and best practices.
-
-- 🔧 Utility Tokens - Import accessibility utility tokens as Figma variables to ensure accessible design decisions across various design elements and components.
-
-Free and open-source: This plugin is free and open-source, driven by a community of passionate contributors dedicated to making digital design more accessible for everyone."
+description: "This plugin enhances the accessibility of digital designs by integrating accessibility guidelines directly into your design processes and systems."
 
 featured_image: wcag-plugin-02.png
-accent_color: "#FF33F7"
+accent_color: "#4c60e6"
 case_study: true
 gallery_images:
   - wcag-plugin-01.png
@@ -30,7 +22,23 @@ gallery_images:
 
 ## About this project
 
-I created a very successful Figma plugin simply called the **[WCAG Plugin](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)**. This effort was born out of my commitment to make digital design more inclusive and accessible to everyone. MY continuous mission is to provide designers and developers with the tools and methodologies they need to integrate accessibility considerations into their workflows seamlessly.
+I created a very successful Figma plugin simply called the **[WCAG Plugin](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)**. 
+
+The WCAG Plugin is simple, but effective. It offers three key features: 
+
+- 🔎 Guideline Search - Quickly find relevant guidelines as a conversation starter and to ensure your designs are providing an equitable experience for all users.
+
+- 🗂️ Notation Cards - Annotate Figma design files with WCAG guideline cards to increase your knowledge of accessibility requirements and best practices.
+
+- 🔧 Utility Tokens - Import accessibility utility tokens as Figma variables to ensure accessible design decisions across various design elements and components.
+
+### Free and open-source 
+
+This plugin is free and open-source, driven by a community of passionate contributors dedicated to making digital design more accessible for everyone.
+
+## Background
+
+This effort was born out of my commitment to make digital design more inclusive and accessible to everyone. My continuous mission is to provide designers and developers with the tools and methodologies they need to integrate accessibility considerations into their workflows seamlessly.
 
 > <h2>Industry Challenge:</h2> Most UX professionals struggle to incorporate accessibility considerations into their design process, resulting in poor experiences for users with disabilities.
 
