@@ -2,4 +2,4 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
-images/projects/.DS_Store
+.DS_Store
