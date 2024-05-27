@@ -26,11 +26,11 @@ I created a very successful Figma plugin simply called the **[WCAG Plugin](https
 
 The WCAG Plugin is simple, but effective. It offers three key features: 
 
-- 🔎 Guideline Search - Quickly find relevant guidelines as a conversation starter and to ensure your designs are providing an equitable experience for all users.
+- 🔎 **Guideline Search** - Quickly find relevant guidelines as a conversation starter and to ensure your designs are providing an equitable experience for all users.
 
-- 🗂️ Notation Cards - Annotate Figma design files with WCAG guideline cards to increase your knowledge of accessibility requirements and best practices.
+- 🗂️ **Notation Cards** - Annotate Figma design files with WCAG guideline cards to increase your knowledge of accessibility requirements and best practices.
 
-- 🔧 Utility Tokens - Import accessibility utility tokens as Figma variables to ensure accessible design decisions across various design elements and components.
+- 🔧 **Utility Tokens** - Import accessibility utility tokens as Figma variables to ensure accessible design decisions across various design elements and components.
 
 ### Free and open-source 
 
