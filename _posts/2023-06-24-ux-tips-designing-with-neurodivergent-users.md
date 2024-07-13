@@ -86,4 +86,4 @@ Just like Ryan found his voice through music, we, as UX designers, have the powe
 
 Let's continue to learn, adapt, and grow together in our journey towards inclusivity and accessibility.
 
-- Marcelo Paiva
++++
