@@ -18,7 +18,7 @@ People with epilepsy can experience a wide range of sensations and symptoms duri
 
 ### General Sensations and Symptoms
 
-**Aura:** Some individuals experience an aura before a seizure, which can include unusual feelings, sensations, or changes in perception. Common auras include:
+Some individuals experience an aura before a seizure, which can include unusual feelings, sensations, or changes in perception. Common auras include:
 
 - A sudden feeling of fear or anxiety
 - A sense of déjà vu
@@ -28,11 +28,29 @@ People with epilepsy can experience a wide range of sensations and symptoms duri
 
 ### During the Seizure
 
-- **Loss of Consciousness**: Particularly in tonic-clonic seizures, the person may lose consciousness and collapse.
-- **Muscle Stiffness and Jerking**: The body may become stiff (tonic phase) followed by rhythmic jerking movements (clonic phase).
-- **Blank Stare**: In absence seizures, a person may suddenly stop what they are doing and have a blank stare.
-- **Automatisms**: Some people may perform repetitive movements, such as lip-smacking, blinking, or hand movements, during focal seizures with impaired awareness.
-- **Confusion**: Postictal confusion is common after a seizure, leaving the person disoriented and unable to communicate clearly.
+During a seizure, individuals may experience a variety of intense and distressing symptoms, which can vary significantly depending on the type of seizure they are having:
+
+- #### Loss of Consciousness
+
+  - Particularly in tonic-clonic seizures, the person may lose consciousness and collapse.
+  
+- #### Muscle Stiffness and Jerking
+
+  - The body may become stiff (tonic phase) followed by rhythmic jerking movements (clonic phase).
+
+- #### Blank Stare
+
+  - In absence seizures, a person may suddenly stop what they are doing and have a blank stare.
+
+- #### Automatisms
+
+  - Some people may perform repetitive movements, such as lip-smacking, blinking, or hand movements, during focal seizures with impaired awareness.
+
+- #### Confusion
+
+  - Postictal confusion is common after a seizure, leaving the person disoriented and unable to communicate clearly.
+
+----
 
 ### Emotional and Physical Impact
 
