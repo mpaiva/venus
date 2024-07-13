@@ -59,7 +59,7 @@ People with epilepsy can experience a wide range of sensations and symptoms duri
 
 ## Our Responsibility as Designers
  
-The Web Content Accessibility Guidelines (WCAG) provide two critical guidelines (2.3.1 and 2.3.2) related to flashing content, which address the potential risks flashing content poses, particularly to individuals with photosensitive epilepsy.
+The Web Content Accessibility Guidelines (WCAG) provide two critical guidelines ([2.3.1](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes-or-below-threshold) and [2.3.2](https://www.w3.org/WAI/WCAG21/Understanding/three-flashes)) related to flashing content, which address the potential risks flashing content poses, particularly to individuals with photosensitive epilepsy.
 
 <blockquote class="accent"> "While WCAG allows for content that flashes under very strict parameters, it is strongly suggested to refrain from using flashing content at all.</blockquote>
 
