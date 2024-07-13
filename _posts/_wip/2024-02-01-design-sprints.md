@@ -1,10 +1,10 @@
 ---
-date: 2023-11-15 00:00:01
-title: "Data Visualizations and Unconscious Bias"
-description: This post delves into the unconscious bias present in traditional data visualization practices, which often exclude non-sighted and cognitively diverse users. It argues for a shift towards 'data representation,' emphasizing inclusive design strategies that cater to a broader audience.
+date: 2024-02-01 00:00:01
+title: "design sprints"
+description: ""
 author: Marcelo Paiva
-featured_image: /images/posts/isaac-smith-AT77Q0Njnt0-unsplash.jpg
-featured_image_description: The image shows a desk with some items laid out. There's an open dotted notebook featuring a humorous line graph. The graph's x-axis is labeled "THE PAST" and "THE FUTURE," while the y-axis ranges from "SUCKING" to "NOT SUCKING." The line starts in the past, indicating a fluctuating performance, and shoots up towards "NOT SUCKING" in the future. Beside the graph, there are two pens, with one appearing to be a fountain pen and the other more like a ballpoint or rollerball. Additionally, there is a metal ruler placed near the top-right of the notebook. In the background, there are some stacked books to the left and a few blank sheets of paper as well. The overall mood suggests planning, goal-setting, work, or study in a casual or creative environment. Photo credits to Isaac Smith on Unsplash.
+featured_image: /images/posts/___.png
+featured_image_description: .
 accent_color: "#f60"
 ---
 

@@ -52,6 +52,10 @@ sass:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-compress-images
 
-paginate: 7
+compress_images:
+  images_path: "/images/**/*.{gif,png,jpg,jpeg,svg}"
+
+paginate: "7"
 paginate_path: "/blog/page-:num/"
