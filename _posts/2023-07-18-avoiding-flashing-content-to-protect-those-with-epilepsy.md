@@ -38,21 +38,23 @@ People with epilepsy can experience a wide range of sensations and symptoms duri
 
 Living with epilepsy can have profound emotional and physical effects on individuals, affecting their daily lives and overall well-being.
 
-#### Fear and Anxiety
+- #### Fear and Anxiety
 
-- During a seizure, individuals may experience intense fear or anxiety.
+  - During a seizure, individuals may experience intense fear or anxiety.
 
-#### Exhaustion
+- #### Exhaustion
 
-- Many people feel extremely tired and may need to rest or sleep after a seizure.
+  - Many people feel extremely tired and may need to rest or sleep after a seizure.
 
-#### Physical Injuries
+- #### Physical Injuries
 
-- There is a risk of injury during seizures, particularly if they occur while standing or performing activities that involve sharp objects or heights.
+  - There is a risk of injury during seizures, particularly if they occur while standing or performing activities that involve sharp objects or heights.
 
-#### Embarrassment and Social Stigma
+- #### Embarrassment and Social Stigma
 
-- The unpredictable nature of seizures can lead to feelings of embarrassment and concern about how others will react.
+  - The unpredictable nature of seizures can lead to feelings of embarrassment and concern about how others will react.
+
+----
 
 ## Design Tips to Avoid Triggering Seizures
 
