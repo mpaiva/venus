@@ -40,36 +40,50 @@ On the other side of the spectrum, we have "neurotypical." This term is used to 
 
 ## Designing with Neurodivergent
 
-Here's the deal: designing with neurodivergent users in mind doesn't have to be complicated. You just have to take note of a few things.
+Here's the deal: designing with neurodivergent users in mind doesn't have to be complicated. You just have to take note of a few things:
 
-## Clear and Consistent Communication
+### Clear and Consistent Communication
 
-Keep things simple. Use straight-to-the-point language and avoid sayings or expressions that might not be clear to everyone. Always give clear instructions, and don't just depend on hints or cues.
+- Keep things simple.
+- Use straight-to-the-point language and avoid sayings or expressions that might not be clear to everyone.
+- Always give clear instructions, and don't just depend on hints or cues.
 
-## Simplify and Declutter
+### Simplify and Declutter
 
-A messy, busy interface is no one's friend. Keep things tidy and easy to understand. Try to avoid too many visual or audio distractions, as these can overwhelm some users.
+- A messy, busy interface is no one's friend.
+- Keep things tidy and easy to understand.
+- Avoid too many visual or audio distractions, as these can overwhelm some users.
 
-## Provide Customization Options
+### Provide Customization Options
 
-Everyone's different, and what works for one person might not work for another. Allow users to adjust the colors, font sizes, contrast levels, and other parts of the interface to make it just right for them.
+- Everyone's different, and what works for one person might not work for another.
+- Allow users to adjust the colors, font sizes, contrast levels, and other parts of the interface to make it just right for them.
+- Stay away from "overlays" - scripts that intend to provide accessible fixes on the fly, as they can cause additional barriers for other user groups.
 
-## Incorporate Feedback Loops
+### Incorporate Feedback Loops
 
-Keep your users in the loop. Show them how they're doing and let them know when they've accomplished something. This could be as simple as a pop-up message or a sound effect.
+- Keep your users in the loop.
+- Show them how they're doing and let them know when they've accomplished something.
+- This could be as simple as a pop-up message, a sound effect, a progress bar or checklists.
 
-## Consider Sensory Sensitivities
+### Consider Sensory Sensitivities
 
-Be mindful of things like bright lights, loud sounds, or specific animations. Some people might find these overwhelming or uncomfortable. Give users the option to control, mute, or adjust these elements.
+- Be mindful of things like bright lights, loud sounds, or specific animations.
+- Some people might find these overwhelming or uncomfortable.
+- Give users the option to control, mute, or adjust these elements.
 
-## Test with Diverse Users
+### Lastly, Always Test with Diverse Users
 
-The best way to find out if your design is accessible? Test it with a diverse group of users, including neurodivergent individuals. Actively ask for feedback and involve all sorts of users in your design process.
+- The best way to find out if your design is accessible is to test it with a diverse group of users, including neurodivergent individuals.
+- Actively ask for feedback and involve all sorts of users in your design process.
+- If you are in the position of hiring someone, consider including people with disabilities in your team.
 
 ## Wrapping it up
 
-Accessibility is not just about checkboxes and legal requirements. It's about people. It's about making sure everyone has equal access to information, services, and opportunities, no matter how their brain is wired.
+Accessibility is not just about checkboxes and legal requirements. **It's about people.** It's about making sure everyone has equal access to information, services, and opportunities, no matter how their brain is wired.
 
 Just like Ryan found his voice through music, we, as UX designers, have the power to create digital environments that can unlock new potentials for neurodivergent individuals. By being mindful of our designs, we can build bridges and break down barriers, allowing everyone to navigate and interact with our digital world more seamlessly.
 
 Let's continue to learn, adapt, and grow together in our journey towards inclusivity and accessibility.
+
+- Marcelo Paiva
