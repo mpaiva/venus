@@ -20,111 +20,106 @@ Download a version of this page on the format that most suits your needs or assi
 
 ## Objective
 
-To leverage my 12+ years of experience in creating accessible and inclusive experiences for diverse user groups and provide thought leadership to UX design teams on Design Systems and Accessibility.
+To bring my 12+ years of experience in creating enterprise-level accessible experiences and provide leadership to product design teams focusing on product design, accessibility, Artificial Intelligence (AI) integration, and cross-functional collaboration.
 
 ## Summary
 
-As a passionate designer, I specialize in creating accessible products for large-scale software development organizations. Proficient in W3C guidelines like WCAG and ARIA, I lead teams to promote accessibility in design initiatives. I'm committed to mentoring the UX community in inclusive design and accessibility best practices.
+As a seasoned design leader, I create inclusive user experiences for large-scale platforms by integrating AI and Accessibility in every step of the product design cycle. I lead cross-functional teams to deliver innovative solutions, leveraging deep expertise in WCAG and ARIA guidelines.
 
 ## Key Skills
 
-- Expertise in designing accessible products and services for diverse user groups.
-- Ability to collaborate with cross-functional teams and drive accessibility-forward product and service design initiatives.
-- Deep understanding and practical application of WCAG and ARIA guidelines and recommendations.
-- Familiarity with standard assistive technologies and how users with disabilities navigate software and products.
-- Proficiency in front-end technologies, such as HTML, CSS, JavaScript (ES6, React, Angular, Vue, Svelte), iOS, and Android.
-- Expert in architecting large-scale Design Systems with Accessibility in mind.
-- Proficient in Design Thinking methodologies in agile environments.
+- **Inclusive Product Design**: Expert in designing accessible products and services that cater to diverse user groups, ensuring compliance with WCAG and ARIA standards.
+- **Artificial Intelligence in Design**: Proficient in leveraging AI tools like ChatGPT for brainstorming, user persona development, prototyping, and accessibility optimization, enhancing creativity and workflow efficiency.
+- **Cross-Functional Collaboration**: Skilled at working alongside Product Management, Engineering, Research, Marketing, and Data Science to develop cohesive and innovative design strategies.
+- **Accessibility Leadership**: Proven ability to drive product initiatives that go beyond compliance, leveraging collaboration and understanding of variety of disability needs.
+- **Front-End Proficiency**: Proficient in technologies like HTML, CSS, JavaScript.
+- **Design System Architecture**: Expertise in architecting large-scale design systems with accessibility as a primary focus, ensuring consistency and ease of use across various platforms.
+- **Persuasive Communication**: Capable of articulating design concepts and building consensus among stakeholders to drive project success and foster a culture of creativity.
 
 ## Professional Highlights
 
-### Accessibility and User Experience Lead
+### Accessibility and User Experience Lead – AEM Corp (Since April 2023)
 
-**AEM Corporation (April 2023 - Present)**
+- Led the design and development of an accessible reporting system for the U.S. Department of Education, collaborating with 80 stakeholders and individuals with disabilities. Successfully extended the U.S. Web Design System to enhance accessibility using design tokens.
+- Conducted over 30 usability studies with users with disabilities, including visually impaired and neurodivergent participants, resulting in the highest possible accessibility standards (AAA). It's about people, not compliance.
 
-- Leading the development of accessible design systems and tools, focusing on inclusivity for users with disabilities during user research.
-- Spearhead the creation and use of a web tools and components for building fully accessible prototypes, demonstrating my dedication to accessible design.
-- Member of the W3C ARIA Working Group
+### Senior UX Manager – UKG (April 2018 – March 2023)
 
-#### Conferences
-I champion the early integration of accessibility in user experience design and share my expertise at various international conferences. Below is a list of the most significant conferences where I am honored to present. I am available to speak and advocate for inclusive design at future events. 
+- Led a team of 10 designers and researchers, enhancing accessibility compliance across UKG's product suite, which contributed to a 97% customer satisfaction rate and supported a user base of 15 million employees.
+- Managed the HCM product experience design, during cross-platform rebranding, while improving usability for over 5,000 organizations in HR, Payroll, and Talent Management, impacting a global market with UKG’s $3.5 billion annual revenue.
+- Provided thought leadership and facilitated Design Thinking, driving collaboration with business partners and contributing to UKG’s expansion in 150 countries.
 
-<!-- ##### Upcoming: -->
+### Design Community Leader, Educator, Speaker (Ongoing)
 
+- Training and building cross-functional teams for start-ups on design systems digital accessibility, design thinking, front-end development, and UX design tools such as Figma, Sketch, and Framer.
+- Authored a comprehensive 10-week UX curriculum for a design Bootcamp, training over 200 entry-level designers in key UX.
 
-##### Past Conferences:
+### Creative Director, ProcessMAP, Corp. - Florida (2015 - 2016)
 
-- **Into Design Systems** – May 15-17, 2024 – [Virtual](https://www.intodesignsystems.com/agenda)
+- Built and led a high-performing team of 8 designers and developers, fostering a creative environment that increased user engagement by over 50% through aan implementation of modern front-end technologies and a design system component library.
+
+### Creative Director, Sapient Global Markets - New York, NY (2014 - 2015)
+
+- Introduced Lean UX practices, reducing design iteration time by 50% and improving team integration within Agile environments, leading to more efficient project delivery and client satisfaction.
+
+### User Experience Director, Thomson Reuters - New York, NY (2007 - 2013)
+
+- Responsible for the interaction design of wearables, smartphones, and tablets for Thomson Reuters Eikon.
+
+## Conferences
+
+I emphasize the importance of incorporating accessibility early in UX design and share my knowledge at international conferences. Notable ones include:
+
+- **Into Design Systems Workshop** – Sep 09-10, 2024 – Germany
+
+  - [Creating Accessible Design Systems](https://intodesignsystems.lemonsqueezy.com/checkout)
+
+- **Into Design Systems Conference** – May 15-17, 2024 – [Virtual](https://www.intodesignsystems.com/agenda)
+
   - Design Tokens Sets for Accessibility Needs
-  - Figma WCAG Plugin Demo [Download](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin) 
+  - Figma WCAG Plugin Demo [Download](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)
 
-- **39th Annual CSUN Assistive Technology Conference** – March 18-22, 2024 – Anaheim, CA 
+- **39th Annual CSUN Assistive Technology Conference** – March 18-22, 2024 – Anaheim, CA
+
   - Explore the Power of Accessible Open-Source Reporting Tool
   - Design Tokens for Equitable Data Representation
 
+- **NTEN - The Nonprofit Technology Conference** – March 12-16, 2024 – Portland, OR
 
-- **NTEN - The Nonprofit Technology Conference** – March 12-16, 2024 – Portland, OR 
-  - [How to Involve People with Disabilities in the Design Process](https://www.nten.org/) 
+  - [How to Involve People with Disabilities in the Design Process](https://www.nten.org/)
 
 - **ATIA - Assistive Technology Industry Association** – January 25-27, 2024 – Orlando, FL
+
   - [Design Tokens for Equitable Data Representation](https://www.atia.org/24conference/)
   - [Design inclusive digital experiences, involve people with disabilities](https://www.atia.org/24conference/)
 
-- **Accessing Higher Ground** – Denver, CO  
+- **Accessing Higher Ground** – Denver, CO
+
   - [How to Create Experiences that Inspire](https://accessinghigherground.org/how-to-create-accessible-experiences-that-inspire/)
 
 - **NCSHA National Council of State Housing Agencies Conference** - October 14-17, 2023 – Boston, MA
-   - Accessibility in Communications - Panel Discussion on best practices on designing accessible websites and products.
 
-- **Closing the Gap** – October 10-13 – Minneapolis, MN  
-   - [Designing Accessible Data Tools for Inclusive Education: A Human-Centered Approach to IDEA Data Reporting](https://www.closingthegap.com/conf-23-presentation/designing-accessible-data-tools-for-inclusive-education-a-human-centered-approach-to-idea-data-reporting/)  
-   - [Open Forum: Open-Source Accessible Reporting Tool Prototype](https://www.closingthegap.com/conf-23-presentation/open-forum-open-source-accessible-reporting-tool-prototype/)
+  - Accessibility in Communications - Panel Discussion on best practices on designing accessible websites and products.
+
+- **Closing the Gap** – October 10-13 – Minneapolis, MN
+
+  - [Designing Accessible Data Tools for Inclusive Education: A Human-Centered Approach to IDEA Data Reporting](https://www.closingthegap.com/conf-23-presentation/designing-accessible-data-tools-for-inclusive-education-a-human-centered-approach-to-idea-data-reporting/)
+  - [Open Forum: Open-Source Accessible Reporting Tool Prototype](https://www.closingthegap.com/conf-23-presentation/open-forum-open-source-accessible-reporting-tool-prototype/)
 
 - **W3C TPAC 2023** – September 11-15, 2023 – Seville, Spain
-   - [Design Tokens for Accessibility Settings: Empowering Inclusive Design with CSS](https://github.com/w3c/tpac2023-breakouts/issues/10)
 
-- **38th Annual CSUN Assistive Technology Conference** – Anaheim, CA  
-   - [Rapid Prototyping with Accessibility in Mind (Tools and Methodologies)](https://www.csun.edu/cod/conference/sessions/2023/index.php/public/presentations/view/1467)
+  - [Design Tokens for Accessibility Settings: Empowering Inclusive Design with CSS](https://github.com/w3c/tpac2023-breakouts/issues/10)
 
-- **37th Annual CSUN Assistive Technology Conference** – Anaheim, CA  
-   - [Rapid Prototyping with Accessibility in Mind (Explorations)](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2412)
+- **38th Annual CSUN Assistive Technology Conference** – Anaheim, CA
 
-- **ICT Accessibility Testing Symposium Conference – 2020 Best Presentation Award**  
-   - [Focus first: a new front-end approach](https://www.ictaccessibilitytesting.org/past-events/)
+  - [Rapid Prototyping with Accessibility in Mind (Tools and Methodologies)](https://www.csun.edu/cod/conference/sessions/2023/index.php/public/presentations/view/1467)
 
+- **37th Annual CSUN Assistive Technology Conference** – Anaheim, CA
 
-### Senior UX Manager
+  - [Rapid Prototyping with Accessibility in Mind (Explorations)](https://www.csun.edu/cod/conference/sessions/2022/index.php/public/presentations/view/2412)
 
-**UKG (Ultimate Kronos Group) - Florida (April 2018 – March 2023)**
-
-- Responsible for the entire HCM product offering, overseeing the experience design efforts for HR, Payroll, Talent Acquisition, Talent Management, and Great Places to Work.
-- Mentoring over 50 product designers and researchers in adopting inclusive design practices with Accessibility in mind.
-- Providing thought-leadership to team members and close collaboration with strategic business partners through Design Thinking facilitation.
-
-### UX Community Leader, Educator, Speaker
-
-- Training and building cross-functional teams for start-ups on Accessibility, Design Thinking, front-end development, and UX design tools.
-- Authoring a 10-week UX curriculum for a design Bootcamp that trains entry-level designers in design thinking methodologies, user research, interaction design, accessibility, rapid prototyping, visual design, and front-end web development.
-- Speaking at UX and Accessibility conferences worldwide on Inclusive and Accessible Design.
-
-### Creative Director
-
-**ProcessMAP, Corp. - Florida (2015 - 2016)**
-
-Built a world-class cross-functional team of designers and front-end developers; established a healthy and fast-paced creative environment that engaged end-users frequently.
-
-### Creative Director
-
-**Sapient Global Markets - New York, NY (2014 - 2015)**
-
-Introduced Lean UX practices in the design process to help accelerate the way Sapient UX teams were embedded in Agile environments.
-
-### User Experience Director
-
-**Thomson Reuters - New York, NY (2007 - 2013)**
-
-- Responsible for the interaction design of wearables, smartphones, and tablets for Thomson Reuters Eikon.
-- First certified ScrumMaster, building cross-functional teams and creating new methods to foster collaboration among UX designers, engineers, and product management.
+- **ICT Accessibility Testing Symposium Conference – 2020 Best Presentation Award**
+  - [Focus first: a new front-end approach](https://www.ictaccessibilitytesting.org/past-events/)
 
 ---
 
@@ -141,24 +136,6 @@ about All users.</span>
 </blockquote>
 
 ---
-
-## As individual contributor
-
-**Verizon, Waltham**
-
-- Worked on a small task force team, generating new business development ideas, pitching to executives for future industry partner meetings.
-
-**Zefer, Boston/New York**
-
-- Lead several initiatives around interaction design, usability studies, and web development for clients such as Fidelity Investments, Citizens Bank, Siemens, and the Lincoln Center for the Performing Arts.
-
-**Freelancer**
-
-- Helped dozens of small businesses take off with a clean and consistent branding set consisting of logomarks, stationery, business cards, websites, book covers, and book diagraming.
-
-**General Electric, Rio de Janeiro**
-
-- My career started as an electrical designer, fresh out of technical high school, working for GE in a Six Sigma environment, learning from the best in the industry then. I was fortunate enough to have experienced the traditional technical drafting with steel nib ink pen on paper.
 
 ## Education
 
@@ -178,6 +155,5 @@ Download the format that most suits your needs or assistive technology.
 
 <a href="https://www.dropbox.com/s/8tek6avpotzy9ve/marcelo_paiva_resume.pdf?dl=0" target="_blank" class="button--fill">PDF</a>
 <a href="https://www.dropbox.com/s/a1dg42w7em0y2lr/marcelo_paiva_resume.docx?dl=0" target="_blank" class="button--fill">DOC</a>
-<a href="https://www.dropbox.com/s/ljtm4i39qmxqkou/marcelo_paiva_resume.txt?dl=0" target="_blank" class="button--fill">TXT</a>
 
 ---
