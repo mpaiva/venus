@@ -72,12 +72,12 @@ I emphasize the importance of incorporating accessibility early in UX design and
 
 - **Into Design Systems Workshop** – Sep 09-10, 2024 – Germany
 
-  - [Creating Accessible Design Systems](https://intodesignsystems.lemonsqueezy.com/checkout)
+  - [Creating Accessible Design Systems - Sign-up!](https://intodesignsystems.lemonsqueezy.com/checkout)
 
-- **Into Design Systems Conference** – May 15-17, 2024 – [Virtual](https://www.intodesignsystems.com/agenda)
+- **Into Design Systems Conference** – May 15-17, 2024 – Germany
 
-  - Design Tokens Sets for Accessibility Needs
-  - Figma WCAG Plugin Demo [Download](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin)
+  - [WCAG Tokens - Design Decisions with Accessibility in mind](https://www.figma.com/proto/SiAdIzn83E9eeQCO1YcbX3/WCAG-Tokens-%5B1.2.0%5D?t=SFgtvmABbOPV91JC-1&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&node-id=80-1286&starting-point-node-id=80%3A1286)
+  - Figma WCAG Plugin Demo ( [Download plugin](https://www.figma.com/community/plugin/1373362852131056921/wcag-plugin) )
 
 - **39th Annual CSUN Assistive Technology Conference** – March 18-22, 2024 – Anaheim, CA
 
