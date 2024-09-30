@@ -2,7 +2,7 @@
 layout: post
 title: "So, you design Data Visualizations. Visualize this: you could go blind tomorrow."
 description: "It is unfortunate the way we designers typically present data – through infographics, maps, charts, and other visual formats – inherently favoring sighted and with a higher than average literacy level. This exclusionary approach leaves many people behind, particularly those with visual impairment or cognitive disabilities. As designers and developers, it's time we broaden our perspective and champion inclusivity."
-date: 2023-06-11
+date: 2024-06-11
 author: Marcelo Paiva
 featured_image: /images/posts/markus-winkler-IrRbSND5EUc-unsplash.jpg
 featured_image_description: A photo of a line chart emphasizing the visual representation of the data, which unconsciously neglects non-sighted users who perceive data differently. Photo credits to Markus Winkler from Unsplash.

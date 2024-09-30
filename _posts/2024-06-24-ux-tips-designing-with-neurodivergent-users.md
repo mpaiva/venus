@@ -1,5 +1,5 @@
 ---
-date: 2023-06-24 00:00:01
+date: 2024-06-24 00:00:01
 title: "UX Tips: Designing with Neurodivergent Users in Mind"
 description: "Just like how everyone sees and appreciates art in their own way, the way we interact with digital spaces can also be unique. This is especially true for those who are neurodivergent, and as UX designers, we need to keep these differences in mind. This article will guide you through some essential tips for designing with neurodivergent users in mind."
 author: Marcelo Paiva

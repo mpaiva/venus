@@ -1,5 +1,5 @@
 ---
-date: 2023-07-18 00:00:01
+date: 2024-07-18 00:00:01
 title: "The Power of Design: Avoiding Flashing Content to Protect Those with Epilepsy"
 description: As designers, we have a profound responsibility to create safe and inclusive digital environments. One critical aspect of this is avoiding flashing content in our designs. While WCAG 2.3.1 allows for content that flashes under strict parameters, it is strongly recommended to refrain from using flashing elements altogether.
 author: Marcelo Paiva

@@ -1,5 +1,5 @@
 ---
-date: 2023-08-01 00:00:01
+date: 2024-08-01 00:00:01
 title: "Should your portfolio be accessible? Hell yeah!"
 description: "As designers, our job is to create experiences that are inclusive and welcoming to everyone. Yet, how often do we think about accessibility when it comes to our own resumes and portfolios? In this article I'll share some accessibility and explain why making your resume and portfolio accessible is not just important, but essential."
 author: Marcelo Paiva

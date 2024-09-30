@@ -1,5 +1,5 @@
 ---
-date: 2023-03-28 00:00:01
+date: 2024-03-28 00:00:01
 title: "Communicating Accessibility Through Inclusive Design"
 description: "How involving people with disabilities early in the design process can lead to more accessible products"
 author: Marcelo Paiva
