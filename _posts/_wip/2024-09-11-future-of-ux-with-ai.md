@@ -4,13 +4,13 @@ title: "The Future of UX: From Apps to Thoughts — How AI and BCIs are transfor
 description: "What we once thought of as “user interface” will become something else entirely — a silent conversation between humans and machines, where the needs of the user are met before they’re even spoken. Welcome to the future of UX, where technology is no longer a tool but a partner in everyday life."
 date: 2024-09-11
 author: Marcelo Paiva and Diego Baca
-featured_image: /images/posts/placeholder.png
-featured_image_description: ""
-accent_color: "#f60"
+featured_image: /images/posts/future-of-ux.png
+featured_image_description: "A futuristic setting with smooth, flowing white curves, featuring a young boy wearing virtual reality goggles and interacting with the air. Nearby, a pregnant woman gestures upward while a person with a mobility disability sits in an AI-driven wheelchair, controlled via Brain-Computer Interface (BCI)."
+accent_color: "#191970"
 ---
 
 
-## 
+## UX is Evolving, Again.
 
 The digital world we interact with every day is at a tipping point. The era of apps, swipes, and taps is giving way to something more intuitive, more personalized, and possibly more extraordinary than we’ve ever imagined. The future of User Experience (UX) will move beyond what we can physically touch and see, evolving into a seamless, nearly invisible web of interactions powered by artificial intelligence (AI) and, soon, our very thoughts.
 
