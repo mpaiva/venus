@@ -2,8 +2,8 @@
 layout: post
 title: "The Future of UX: From Apps to Thoughts — How AI and BCIs are transforming UX"
 description: ""
-date: 2024-06-11
-author: Marcelo Paiva
+date: 2024-09-11
+author: Marcelo Paiva and Diego Baca
 featured_image: /images/posts/markus-winkler-IrRbSND5EUc-unsplash.jpg
 featured_image_description: "What we once thought of as “user interface” will become something else entirely — a silent conversation between humans and machines, where the needs of the user are met before they’re even spoken. Welcome to the future of UX, where technology is no longer a tool but a partner in everyday life."
 accent_color: "#f60"
